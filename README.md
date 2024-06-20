@@ -26,7 +26,7 @@ srt_translator/
 ## 安装
 1.克隆此仓库：
 ```
-git clone https://github.com/yourusername/srt_translator.git
+git clone https://github.com/Elizabeth-Hi/srt_translator.git
 cd srt_translator
 ```
 
