@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:03,000
+Laten we voor het gemak zeggen dat er maar twee soorten mensen zijn — type A en type B.
+
+2
+00:00:03,000 --> 00:00:05,000
+Type A zijn de populaire.
+
+3
+00:00:05,000 --> 00:00:07,000
+Ze hebben 80 vrienden.
+
+4
+00:00:07,000 --> 00:00:10,000
+En type B zijn minder populair. Zij hebben slechts 20 vrienden.
+
+5
+00:00:10,000 --> 00:00:14,000
+Je zou nu kunnen zeggen dat ik niet weet welk type jij bent.
+
+6
+00:00:14,000 --> 00:00:19,000
+Ik zal berekenen wat men het verwachte of gemiddelde aantal vrienden noemt.
+
+7
+00:00:19,000 --> 00:00:23,000
+Om dit te doen, neem ik aan dat de helft van de mensen van type A zijn
+
+8
+00:00:23,000 --> 00:00:26,000
+en de helft van de mensen van type B zijn.
+
+9
+00:00:26,000 --> 00:00:28,000
+Hier is je allereerste quiz in deze cursus.
+
+10
+00:00:28,000 --> 00:00:33,000
+Voer in dit vak in wat je denkt dat het verwachte of gemiddelde aantal vrienden is,
+
+11
+00:00:33,000 --> 00:00:39,000
+als er 50% kans is om van het type A te zijn en 50% kans om van het type B te zijn.
+
+12
+00:00:39,000 --> 00:00:41,000
+Typ in dit vak als je klaar bent.
+
+13
+00:00:41,000 --> 00:00:43,000
+Er is een knop "submit" om het antwoord in te dienen ergens hier beneden.
+
+14
+00:00:43,000 --> 00:00:45,000
+Je kunt dan zien of je antwoord juist is.
+
+15
+00:00:45,000 --> 00:00:47,000
+Ongeacht of je het antwoord weet of niet,
+
+16
+00:00:47,000 --> 00:00:49,000
+op een gegeven moment klik gewoon op de knop "Next"
+
+17
+00:00:49,000 --> 00:00:53,000
+en dan zie je mijn antwoord.

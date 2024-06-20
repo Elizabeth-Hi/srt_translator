@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:05,000
+Benvenuto al corso Statistica 101, tenuto da me, Sebastian Thrun e da Adam Sherwin,
+
+2
+00:00:05,000 --> 00:00:08,000
+che è l'assistente che fa un sacco di lavoro dietro le quinte.
+
+3
+00:00:08,000 --> 00:00:12,000
+Credo che comincerò proponendoti un rompicapo, un rompicapo impegnativo.
+
+4
+00:00:12,000 --> 00:00:14,000
+Ho intenzione di provocarti.
+
+5
+00:00:14,000 --> 00:00:16,000
+Ecco, questo sei tu.
+
+6
+00:00:16,000 --> 00:00:18,000
+Credo che dovresti essere infelice,
+
+7
+00:00:18,000 --> 00:00:20,000
+non perché questo corso è così male,
+
+8
+00:00:20,000 --> 00:00:24,000
+ma tu e io dimostreremo in un secondo che sei impopolare.
+
+9
+00:00:24,000 --> 00:00:26,000
+Il motivo per cui ti mostro questo
+
+10
+00:00:26,000 --> 00:00:29,000
+è di farti vedere quanto profonda sia la statistica
+
+11
+00:00:29,000 --> 00:00:33,000
+e come facilmente possiamo ingannare noi stessi. Allora, procediamo.
+

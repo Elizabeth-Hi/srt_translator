@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:02,000
+Pretpostavljam da ste do sada već shvatili,
+
+2
+00:00:02,000 --> 00:00:08,000
+ali pitat ću vas samo da provjerim razumijete li logiku iza ovog seta podataka.
+
+3
+00:00:08,000 --> 00:00:12,000
+Kolika je cijena kuće po kvadratnoj stopi?
+
+4
+00:00:12,000 --> 09:59:59,000
+Ovdje je moja kvadratna stopa i molim da odgovor upišete u ovo polje.
+

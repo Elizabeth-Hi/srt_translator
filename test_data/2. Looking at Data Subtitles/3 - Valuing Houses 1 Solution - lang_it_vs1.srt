@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,000
+Beh, nel nostro primo quiz ci basta cercarlo.
+
+2
+00:00:03,000 --> 00:00:10,000
+Si scopre che c'è un'altra casa delle stesse dimensioni che è stata venduta a $104.000.
+
+3
+00:00:10,000 --> 00:00:14,000
+Ai fini della statistica, la risposta è $104.000.
+
+4
+00:00:14,000 --> 00:00:17,000
+Questo non è il corso di teoria dei giochi.
+
+5
+00:00:17,000 --> 00:00:19,000
+Ovviamente, non vorresti offrire così tanto,
+
+6
+00:00:19,000 --> 09:59:59,000
+ma, ai fini della statistica, questo è quello che dovresti aspettarti di pagare.
+

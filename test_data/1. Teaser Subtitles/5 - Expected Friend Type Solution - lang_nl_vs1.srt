@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hier is het interessante resultaat.
+
+2
+00:00:02,000 --> 00:00:04,000
+Omdat type A mensen zo veel populairder zijn,
+
+3
+00:00:04,000 --> 00:00:08,000
+is de kans dat je een type A kiest 0.8.
+
+4
+00:00:08,000 --> 00:00:10,000
+Om dat te begrijpen, kunnen we naar een extreem geval kijken.
+
+5
+00:00:10,000 --> 00:00:12,000
+Stel dat type B mensen 0 vrienden hadden,
+
+6
+00:00:12,000 --> 00:00:14,000
+dan zou je nooit met een B gelinkt zijn.
+
+7
+00:00:14,000 --> 00:00:17,000
+Je bent met A's en B's gelinkt in een 80:20 verhouding
+
+8
+00:00:17,000 --> 00:00:20,000
+Type B is dus 0.2.
+
+9
+00:00:20,000 --> 00:00:23,000
+Dat betekent dat je meeste vrienden type A zijn.
+
+10
+00:00:23,000 --> 09:59:59,000
+Zij zijn mensen die populair zijn.
+

@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:02,000
+Mi respuesta os va a sorprender.
+
+2
+00:00:02,000 --> 00:00:05,000
+Tiene 68 amigos.
+
+3
+00:00:05,000 --> 00:00:07,000
+¿Quién lo habría imaginado?
+
+4
+00:00:07,000 --> 00:00:12,000
+Obtenemos este resultado mediante el 0.8 de probabilidad de elegir a alguien con 80 amigos.
+
+5
+00:00:12,000 --> 00:00:16,000
+y el 0.2 de seleccionar un tipo B, que tiene 20 amigos.
+
+6
+00:00:16,000 --> 00:00:21,000
+Si multiplicamos nos da 64 + 4, que es igual a 68.
+
+7
+00:00:21,000 --> 00:00:27,000
+Se espera que tu amigo tenga 68 amigos, mientras que tú sólo tendrías 50.
+
+8
+00:00:27,000 --> 99:59:59,999
+Lo siento, pero el resultado nos dice que no caes tan bien.

@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:02,000
+He aquí un descubrimiento interesante.
+
+2
+00:00:02,000 --> 00:00:04,000
+Ya que los del tipo A caen mucho mejor,
+
+3
+00:00:04,000 --> 00:00:08,000
+la probabilidad de conectar con uno de ellos es de 0,8.
+
+4
+00:00:08,000 --> 00:00:10,000
+Vayámonos a los extremos.
+
+5
+00:00:10,000 --> 00:00:12,000
+Supongamos que los del tipo B no tienen amigos.
+
+6
+00:00:12,000 --> 00:00:14,000
+En ese caso, nunca podrías conectar con alguien del tipo B.
+
+7
+00:00:14,000 --> 00:00:17,000
+Conectas con los tipo A y los tipo B en una proporción de 80-20.
+
+8
+00:00:17,000 --> 00:00:20,000
+Al tipo B le corresponde el 0,2.
+
+9
+00:00:20,000 --> 00:00:23,000
+Lo que significa que la mayoría de los amigos con los que conectas pertenecen al tipo A.
+
+10
+00:00:23,000 --> 99:59:59,999
+Los que resultan ser los más populares.

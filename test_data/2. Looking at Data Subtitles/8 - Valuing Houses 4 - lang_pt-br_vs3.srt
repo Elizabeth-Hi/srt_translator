@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:02,000
+Agora, isso nem sempre é correto.
+
+2
+00:00:02,000 --> 00:00:07,000
+Eu assumo que estes dados tem certas propriedades, que eu vou discutir mais tarde,
+
+3
+00:00:07,000 --> 00:00:12,000
+mas vamos seguir adiante e assumir que nós podemos utilizar o truque de encontrar os preços
+
+4
+00:00:12,000 --> 00:00:19,000
+entre os os preços existentes para precificar outros tamanhos de casas, como 1500 pés quadrados.
+
+5
+00:00:19,000 --> 99:59:59,999
+Por favor responda aqui,

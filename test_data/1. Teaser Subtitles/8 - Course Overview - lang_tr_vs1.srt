@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hadi bu ders hakkında konuşalım.
+
+2
+00:00:02,000 --> 00:00:04,000
+İçeriğin çoğu çok temel.
+
+3
+00:00:04,000 --> 00:00:08,000
+Eğer istatistik bölümünde okumuyorsanız, üniversitede alacağınız ilk ders budur.
+
+4
+00:00:08,000 --> 00:00:12,000
+Size veriyi nasıl görselleştireceğiniz, nasıl özetleyeceğiniz,
+
+5
+00:00:12,000 --> 00:00:15,000
+nasıl test edebileceğiniz ve hatta verideki eğilimi nasıl bulabileceğiniz gibi şeyleri öğreteceğiz.
+
+6
+00:00:15,000 --> 00:00:18,000
+Fakat burada bir de zorlayıcı bazı sürprizler de var.
+
+7
+00:00:18,000 --> 00:00:21,000
+Bunlar isteğe bağlı ve açıkça "isteğe bağlı" olarak işaretlenmiş durumda,
+
+8
+00:00:21,000 --> 00:00:25,000
+fakat yol boyu sizinle bazı küçük oyunlar oynayarak birtakım teoremleri ispat etmenize izin vereceğim.
+
+9
+00:00:25,000 --> 00:00:29,000
+En önemlisi, öğrendiğiniz şeyleri programlama şansını yakalayacaksınız.
+
+10
+00:00:29,000 --> 00:00:33,000
+Tekrar ediyorum, bunlar isteğe bağlı çünkü programlama temeliniz olmasını beklemiyorum.
+
+11
+00:00:33,000 --> 00:00:35,000
+Yine de bir deneyin.
+
+12
+00:00:35,000 --> 00:00:40,000
+İnanıyorum ki, programlayarak dersin içeriğini diğer herhangi bir yöntemden daha iyi öğrenirsiniz.
+
+13
+00:00:40,000 --> 00:00:42,000
+İsteğe bağlı. Bütün içeriği programlama olmadan da sindirebilirsiniz.
+
+14
+00:00:42,000 --> 09:59:59,000
+Fakat eğer programlama biliyorsanız, yine de bir denemenizi tavsiye ederim.
+

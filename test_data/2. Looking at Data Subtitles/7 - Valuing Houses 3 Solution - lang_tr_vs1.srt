@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bu soru hileli bir soru.
+
+2
+00:00:02,000 --> 00:00:04,000
+Buna şu şekilde yaklaşacağım...
+
+3
+00:00:04,000 --> 00:00:10,000
+2100, 1800 ile 2400 'ün tam ortası.
+
+4
+00:00:10,000 --> 00:00:15,000
+Eğer 144,000 dolar ile 192,000 doların tam ortasını alırsak,
+
+5
+00:00:15,000 --> 09:59:59,000
+144,000 ile 192,000 doların ortalamasını alırsak, 168,000 dolar eder.
+

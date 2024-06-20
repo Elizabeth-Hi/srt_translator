@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:05,000
+Bienvenidos a Introducción a la Estadística, la cual impartiré yo, Sebastian Thrun, junto con Adam Sherwin,
+
+2
+00:00:05,000 --> 00:00:08,000
+nuestro profesor auxiliar, que trabaja como un esclavo en la sombra.
+
+3
+00:00:08,000 --> 00:00:12,000
+Supongo que empezaré planteando un reto, uno complejo.
+
+4
+00:00:12,000 --> 00:00:14,000
+Os voy a provocar.
+
+5
+00:00:14,000 --> 00:00:16,000
+Este eres tú.
+
+6
+00:00:16,000 --> 00:00:18,000
+Opino que no deberías estar contento,
+
+7
+00:00:18,000 --> 00:00:20,000
+no porque el curso sea pésimo,
+
+8
+00:00:20,000 --> 00:00:24,000
+sino porque juntos demostraremos, en unos instantes, que le caes mal a la gente.
+
+9
+00:00:24,000 --> 00:00:26,000
+La razón por la que lo hago
+
+10
+00:00:26,000 --> 00:00:29,000
+es para enseñarte el verdadero alcance de la estadística
+
+11
+00:00:29,000 --> 00:00:33,000
+y con cuanta facilidad nos engañamos a nosotros mismos. Vamos allá.

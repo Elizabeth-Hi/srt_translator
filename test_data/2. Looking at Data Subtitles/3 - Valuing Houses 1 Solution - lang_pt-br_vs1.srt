@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,000
+Bem, em nosso primeiro teste nos vamos apenas consultar.
+
+2
+00:00:03,000 --> 00:00:10,000
+Acontece que existe uma venda do mesmo tamanho, e o valor fechado foi $104.000.
+
+3
+00:00:10,000 --> 00:00:14,000
+No que interessa a estatística, a resposta é $104.000
+
+4
+00:00:14,000 --> 00:00:17,000
+Essa não é uma aula de teoria de jogos.
+
+5
+00:00:17,000 --> 00:00:19,000
+Obviamente, você não gostaria de dar um lance tão alto,
+
+6
+00:00:19,000 --> 00:00:23,687
+mas no que interessa a estatística, isto é o que seria esperado que você pagasse.
+

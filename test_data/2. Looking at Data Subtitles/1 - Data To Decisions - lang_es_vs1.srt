@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:04,000
+Bienvenido a mi clase en línea de estadística
+
+2
+00:00:04,000 --> 00:00:09,000
+Lo básico de la estadística es que el mundo está lleno de datos,
+
+3
+00:00:09,000 --> 00:00:13,000
+y nosotros las personas tenemos que tomar decisiones.
+
+4
+00:00:13,000 --> 00:00:16,000
+La estadística llega a nuestro rescate
+
+5
+00:00:16,000 --> 00:00:23,000
+Toma los datos y convierte en información que nosotros podemos usar para tomar decisiones
+
+6
+00:00:23,000 --> 00:00:29,000
+Si estás en ciencias sociales, medicina, ingeniería, políticas públicas
+
+7
+00:00:29,000 --> 00:00:37,000
+psicología, climatología, robotica incluso arqueología, ciencias de la salud
+
+8
+00:00:37,000 --> 00:00:45,000
+finanzas, negocios, mercadotecnia y casi cualquier otra disciplina que puedas estudiar
+
+9
+00:00:45,000 --> 00:00:52,000
+Todo éstos están impulsados por los datos, incluyendo campos improbables como biología o física
+
+10
+00:00:52,000 --> 00:00:55,000
+y muchos más.
+
+11
+00:00:55,000 --> 00:00:58,000
+Estadística es una disciplina increíble para conocer.
+
+12
+00:00:58,000 --> 99:59:59,000
+Es universal, útil y divertida, espero que puedas verlo en la clase que te voy a enseñar
+

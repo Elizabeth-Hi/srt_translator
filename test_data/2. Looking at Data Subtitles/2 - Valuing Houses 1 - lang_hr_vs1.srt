@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:06,000
+Jedan od klasičnih problema koje ljudi rješavaju na statistici je povezan s odlukama prilikom kupnje.
+
+2
+00:00:06,000 --> 00:00:09,000
+Pretpostavimo da želite kupiti kuću.
+
+3
+00:00:09,000 --> 00:00:16,000
+Ima malih i velikih kuća, ali vi zbilja želite tu jednu posebnu kuću
+
+4
+00:00:16,000 --> 00:00:18,000
+koju je izgradio poznati dizajner.
+
+5
+00:00:18,000 --> 00:00:20,000
+Kuća ima stanovitu cijenu.
+
+6
+00:00:20,000 --> 00:00:24,000
+Recimo $92, 000.00 američkih dolara.
+
+7
+00:00:24,000 --> 00:00:27,000
+Ono što se želite zapitati jest--je li to prihvatljivo?
+
+8
+00:00:27,000 --> 00:00:32,000
+Je li previše--trebate li platiti manje--ili premalo?
+
+9
+00:00:32,000 --> 00:00:34,000
+Idemo saznati.
+
+10
+00:00:34,000 --> 00:00:38,000
+U statistici, način na koji saznajemo jest proučavanjem podataka.
+
+11
+00:00:38,000 --> 00:00:43,000
+Pretpostavimo da postoji baza podataka s prijašnjim prodajama kuće
+
+12
+00:00:43,000 --> 00:00:45,000
+ili kuća u istom susjedstvu.
+
+13
+00:00:45,000 --> 00:00:49,000
+Da pojednostavimo, pretpostavimo da znamo dvije stvari--
+
+14
+00:00:49,000 --> 00:00:53,000
+veličinu kuće i cijenu po kojoj je bila prodana.
+
+15
+00:00:53,000 --> 00:00:59,000
+Tu je jedna kuća veličine 1400 kvadratnih stopa koja je bila pordana po cijeni $112,000,
+
+16
+00:00:59,000 --> 00:01:06,000
+jedna mnogo veća od 2400 kvadratnih stopa prodana za $192,000
+
+17
+00:01:06,000 --> 00:01:10,000
+i tako dalje za cijeli niz drugih kuća.
+
+18
+00:01:10,000 --> 00:01:12,000
+Sada to postaje statistički problem.
+
+19
+00:01:12,000 --> 00:01:17,000
+Imate prethodne podatke i sada slijedi vaše prvo kviz pitanje.
+
+20
+00:01:17,000 --> 00:01:23,000
+Recimo da kuća koju želite kupiti ima 1300 kvadratnih stopa.
+
+21
+00:01:23,000 --> 09:59:59,000
+Koliko očekujete da ćete trebati platiti?
+

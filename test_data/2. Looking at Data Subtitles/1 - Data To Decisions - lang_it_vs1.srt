@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:04,000
+Benvenuto al mio corso online di statistica.
+
+2
+00:00:04,000 --> 00:00:09,000
+Alla base della statistica c'è il fatto che il mondo è pieno di dati,
+
+3
+00:00:09,000 --> 00:00:13,000
+e noi persone dobbiamo prendere decisioni.
+
+4
+00:00:13,000 --> 00:00:16,000
+La statistica arriva in nostro soccorso.
+
+5
+00:00:16,000 --> 00:00:23,000
+Prende i dati e li trasforma in informazioni che noi persone possiamo utilizzare per prendere decisioni.
+
+6
+00:00:23,000 --> 00:00:29,000
+Che vi occupiate di scienze sociali, medicina, ingegneria, politiche pubbliche,
+
+7
+00:00:29,000 --> 00:00:37,000
+psicologia, climatologia, robotica, o anche archeologia, scienze della salute,
+
+8
+00:00:37,000 --> 00:00:45,000
+finanza, business e marketing o praticamente qualunque altra disciplina studiabile,
+
+9
+00:00:45,000 --> 00:00:52,000
+Tutti questi studi sono oggi guidati dai dati. E questo vale anche per campi inaspettati come biologia o fisica
+
+10
+00:00:52,000 --> 00:00:55,000
+e tanti altri.
+
+11
+00:00:55,000 --> 00:00:58,000
+La statistica è una disciplina meravigliosa da apprendere.
+
+12
+00:00:58,000 --> 00:01:02,000
+È universale, utile e divertente, come spero che ti accorgerai seguendo il corso che stiamo per iniziare.
+

@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:02,000
+Laten we het over deze cursus hebben.
+
+2
+00:00:02,000 --> 00:00:04,000
+Het meeste is basaal.
+
+3
+00:00:04,000 --> 00:00:08,000
+Het is de eerste cursus die je in het hoger onderwijs zou doen als je niet statistiek studeert.
+
+4
+00:00:08,000 --> 00:00:12,000
+We leren je dingen zoals hoe je data kunt visualiseren, en kan samenvatten,
+
+5
+00:00:12,000 --> 00:00:15,000
+hoe je een test kan doen en trends kan vinden.
+
+6
+00:00:15,000 --> 00:00:18,000
+Maar er zijn ook stukjes die uitdagender zijn.
+
+7
+00:00:18,000 --> 00:00:21,000
+Deze dingen zijn facultatief, en dat wordt duidelijk aangegeven (optional),
+
+8
+00:00:21,000 --> 00:00:25,000
+maar ik zal je een paar stellingen laten bewijzen, met gebruik van een paar spelletjes.
+
+9
+00:00:25,000 --> 00:00:29,000
+En belangrijker nog, je krijgt de kans om de dingen die je leert te programmeren.
+
+10
+00:00:29,000 --> 00:00:33,000
+En dit is ook facultatief, want ik ga er niet van uit dat je kan programmeren.
+
+11
+00:00:33,000 --> 00:00:35,000
+Maar probeer het uit.
+
+12
+00:00:35,000 --> 00:00:40,000
+Ik geloof dat je door het programmeren het materiaal veel beter kan leren.
+
+13
+00:00:40,000 --> 00:00:42,000
+Het is facultatief, je kan zonder programmeren ook alles leren.
+
+14
+00:00:42,000 --> 09:59:59,000
+Maar ik raad je aan het te proberen.
+

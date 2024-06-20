@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:09,000
+La respuesta es $80 por pie cuadrado y lo obtenemos de sólo dividir $112,000 entre 1400
+
+2
+00:00:09,000 --> 00:00:16,000
+Resulta ser que estos datos tienen la sorprendente propiedad, de que el costo por pie cuadrado es constante
+
+3
+00:00:16,000 --> 00:00:19,000
+Esto nos permite interpolar de la forma como lo acabamos de hacer
+
+4
+00:00:19,000 --> 00:00:23,000
+En estadística normalmente no es el caso, pero quiero felicitarte
+
+5
+00:00:23,000 --> 00:00:27,000
+Hiciste tu primera unidad de estadística
+
+6
+00:00:27,000 --> 00:00:30,000
+Felicidades. Completaste la unidad 1
+
+7
+00:00:30,000 --> 00:00:37,000
+Pero a medida que avanzamos, vamos a observar datos donde el costo no necesariamente
+
+8
+00:00:37,000 --> 00:00:41,000
+es un factor constante multiplicado por el tamaño de la casa.
+
+9
+00:00:41,000 --> 00:00:44,000
+Te veo en la próxima unidad.
+

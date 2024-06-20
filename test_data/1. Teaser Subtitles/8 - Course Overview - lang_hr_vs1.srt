@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:02,000
+Porazgovarajmo o ovim predavanjima.
+
+2
+00:00:02,000 --> 00:00:04,000
+Većina sadržaja je vrlo elementarna.
+
+3
+00:00:04,000 --> 00:00:08,000
+To bi bilo prvo predavanje iz statistike na koledžu ako vam statistika nije glavni predmet.
+
+4
+00:00:08,000 --> 00:00:12,000
+Učimo vas stvari poput načina kako vizualizirati podatke, kako ih sažeti,
+
+5
+00:00:12,000 --> 00:00:15,000
+kako provesti testove te čak kako prepoznati trendove.
+
+6
+00:00:15,000 --> 00:00:18,000
+Međutim također ima nekoliko težih dijelova koji predstavljaju izazov.
+
+7
+00:00:18,000 --> 00:00:21,000
+Oni su neobavezni i jasno su označeni kao takvi,
+
+8
+00:00:21,000 --> 00:00:25,000
+ali dat ću vam usput da dokažete neke teoreme služeći se igricama koje igram s vama.
+
+9
+00:00:25,000 --> 00:00:29,000
+I najvažnije, imat ćete mogućnost programirati one stvari koje ste naučili.
+
+10
+00:00:29,000 --> 00:00:33,000
+Opet napominjem, to je opcionalno jer ne očekujem da imate predznanje u području programiranja.
+
+11
+00:00:33,000 --> 00:00:35,000
+Ali probajte.
+
+12
+00:00:35,000 --> 00:00:40,000
+Vjerujem da se kroz programiranje puno bolje uči nego na druge načine.
+
+13
+00:00:40,000 --> 00:00:42,000
+To je opcionalno. Gradivo možete savladati i bez toga.
+
+14
+00:00:42,000 --> 09:59:59,000
+Ali predlažem da probate ako znate programirati.
+

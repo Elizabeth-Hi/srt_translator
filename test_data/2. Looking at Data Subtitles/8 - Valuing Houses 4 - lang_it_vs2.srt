@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:02,000
+Ora, questo non è sempre corretto.
+
+2
+00:00:02,000 --> 00:00:07,000
+Presumo che questi dati abbiano determinate proprietà, che discuterò più avanti,
+
+3
+00:00:07,000 --> 00:00:12,000
+ma andiamo avanti e assumiamo di poter usare il trucco di estrapolare i prezzi intermedi
+
+4
+00:00:12,000 --> 00:00:19,000
+tra i prezzi dati per calcolare il prezzo di case di altre dimensioni. Per esempio 1500 piedi quadrati.
+
+5
+00:00:19,000 --> 99:59:59,999
+Prego, inserisci qui la risposta.

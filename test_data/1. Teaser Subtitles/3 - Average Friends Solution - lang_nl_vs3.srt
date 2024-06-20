@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:02,000
+Mijn antwoord is 50 vrienden.
+
+2
+00:00:02,000 --> 00:00:05,000
+De manier waarop ik dit heb gevonden is: ik weet niet welk type jij bent
+
+3
+00:00:05,000 --> 00:00:10,000
+met 50% kans of 1/2 ben je type A, en dan heb je 80 vrienden,
+
+4
+00:00:10,000 --> 00:00:14,000
+en met 50% kans ben je type B en heb je 20 vrienden.
+
+5
+00:00:14,000 --> 00:00:17,000
+Dat geeft mij deze vergelijking hier als het verwachte aantal vrienden.
+
+6
+00:00:17,000 --> 00:00:22,000
+Als je dit uitrekent heb je 40 + 10 = 50 vrienden.
+
+7
+00:00:22,000 --> 99:59:59,999
+Tot nu toe geen probleem, maar waarom ben jij niet populair?

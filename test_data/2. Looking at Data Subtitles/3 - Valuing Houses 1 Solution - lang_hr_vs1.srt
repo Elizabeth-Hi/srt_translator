@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,000
+U našem prvom kviz pitanju, samo ćemo potažiti odgovor.
+
+2
+00:00:03,000 --> 00:00:10,000
+Ispada da je bila prodana kuća iste veličine po cijeni od $104,000.
+
+3
+00:00:10,000 --> 00:00:14,000
+Vodeći se statistikom, odgovor je $104,000.
+
+4
+00:00:14,000 --> 00:00:17,000
+To nije baš kao nešto s predavanja o teoriji igara.
+
+5
+00:00:17,000 --> 00:00:19,000
+Očito ne želite platiti toliko puno,
+
+6
+00:00:19,000 --> 09:59:59,000
+ali u duhu je statistike da se očekuje da toliko platite.
+

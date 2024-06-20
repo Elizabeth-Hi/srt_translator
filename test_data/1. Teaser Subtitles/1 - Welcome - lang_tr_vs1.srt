@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:05,000
+İstatistik 101'e hoşgeldiniz. Dersi ben, Sebastian Thrun,
+
+2
+00:00:05,000 --> 00:00:08,000
+ve arkaplanda pek çok işi üstlenen yardımcı hoca Adam Sherwin veriyoruz.
+
+3
+00:00:08,000 --> 00:00:12,000
+Size ilginç bir örnek vererek başlamayı planlıyorum.
+
+4
+00:00:12,000 --> 00:00:14,000
+Bu örnek sizi kışkırtacak.
+
+5
+00:00:14,000 --> 00:00:16,000
+İşte bu, sizsiniz.
+
+6
+00:00:16,000 --> 00:00:18,000
+Sizin mutsuz olmanız gerektiğini düşünüyorum.
+
+7
+00:00:18,000 --> 00:00:20,000
+Ders çok kötü olduğu için değil,
+
+8
+00:00:20,000 --> 00:00:24,000
+fakat birazdan siz ve ben aslında popüler olmadığınızı kanıtlayacağız.
+
+9
+00:00:24,000 --> 00:00:26,000
+Bunu yapmamın nedeni
+
+10
+00:00:26,000 --> 00:00:29,000
+size istatistiğin ne kadar derin olduğunu
+
+11
+00:00:29,000 --> 00:00:33,000
+ve kendimizi ne kadar kolay kandırabildiğimizi göstermek. O zaman başlayalım.
+

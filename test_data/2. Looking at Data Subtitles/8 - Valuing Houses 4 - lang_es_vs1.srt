@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,000
+Ahora, no siempre esto es correcto
+
+2
+00:00:02,000 --> 00:00:07,000
+Voy a asumir que estos datos tienen ciertas propiedades, que hablaré mas tarde
+
+3
+00:00:07,000 --> 00:00:12,000
+pero vamos a continuar y asumir que podemos usar el truco de calcular los precios
+
+4
+00:00:12,000 --> 00:00:19,000
+entre los precios existentes de otros tamaños de casa, como el de una de 1500 pies cuadrados
+
+5
+00:00:19,000 --> 99:59:59,000
+Por favor, pon tu respuesta aquí
+

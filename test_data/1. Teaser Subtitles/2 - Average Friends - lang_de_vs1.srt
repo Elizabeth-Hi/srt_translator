@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:03,000
+Lasst uns der Einfachheit halber annehmen, es gibt zwei Arten von Personen –– Typ A und Typ B.
+
+2
+00:00:03,000 --> 00:00:05,000
+Typ A sind die Beliebten.
+
+3
+00:00:05,000 --> 00:00:07,000
+Sie haben 80 Freunde.
+
+4
+00:00:07,000 --> 00:00:10,000
+Und Typ B sind weniger beliebt. Sie haben nur 20 Freunde.
+
+5
+00:00:10,000 --> 00:00:14,000
+Du könntest nun sagen dass ich nicht weiß welcher Typ du bist.
+
+6
+00:00:14,000 --> 00:00:19,000
+Ich werde etwas ausrechnen, das sich die erwartete oder durchschnittliche Anzahl an Freunden nennt.
+
+7
+00:00:19,000 --> 00:00:23,000
+Um das zu tun, nehme ich an, dass die Hälfte der Menschen vom Typ A ist
+
+8
+00:00:23,000 --> 00:00:26,000
+und die andere Hälfte ist vom Typ B.
+
+9
+00:00:26,000 --> 00:00:28,000
+Hier ist dein erstes Rätsel in diesem Kurs.
+
+10
+00:00:28,000 --> 00:00:33,000
+Schreibe in diese Box die von dir erwartete oder durchschnittliche Anzahl an Freunden.
+
+11
+00:00:33,000 --> 00:00:39,000
+Wenn du eine 50 prozentige Chance hast Typ A zu sein und eine 50 prozentige Chance Typ B zu sein.
+
+12
+00:00:39,000 --> 00:00:41,000
+Gib es hier ein wenn du fertig bist,
+
+13
+00:00:41,000 --> 00:00:43,000
+hier unten gibt es irgendwo einen Submit Knopf.
+
+14
+00:00:43,000 --> 00:00:45,000
+Du kannst sehen ob deine Antwort richtig ist.
+
+15
+00:00:45,000 --> 00:00:47,000
+Egal ob du das fertig machst oder nicht,
+
+16
+00:00:47,000 --> 00:00:49,000
+drücke irgendwann einfach den Next Knopf
+
+17
+00:00:49,000 --> 00:00:53,000
+und du wirst meine Antwort sehen.
+

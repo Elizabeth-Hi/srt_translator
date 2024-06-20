@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:05,000
+Esta es tu página de Facebook o Google+ y ,por supuesto, estás sonriendo.
+
+2
+00:00:05,000 --> 00:00:10,000
+Ahí tienes una lista de amigos, que sabemos puede ser de 80 o 20.
+
+3
+00:00:10,000 --> 00:00:12,000
+Se espera que tengas 50 amigos.
+
+4
+00:00:12,000 --> 00:00:15,000
+Elijamos a uno cualquiera de tus amigos, como este.
+
+5
+00:00:15,000 --> 00:00:20,000
+Esta persona también tiene una página de Facebook o Google+.
+
+6
+00:00:20,000 --> 00:00:23,000
+Antes de preguntar cuantos amigos tiene esta persona,
+
+7
+00:00:23,000 --> 00:00:29,000
+Consideremos que podría ser del tipo A o del tipo B.
+
+8
+00:00:29,000 --> 00:00:34,000
+Recuerda que los del tipo A tienen 80 amigos y los del tipo B tienen 20 amigos.
+
+9
+00:00:34,000 --> 00:00:41,000
+Mi pregunta para ti es, ¿cuál es la probabilidad de que eligieras un amigo del tipo A?
+
+10
+00:00:41,000 --> 00:00:43,000
+Debe ser un número entre 0 y 1.
+
+11
+00:00:43,000 --> 00:00:45,000
+También te pregunto lo contrario.
+
+12
+00:00:45,000 --> 00:00:48,000
+¿Cuál es la probabilidad de que eligieras a alguien del tipo B?
+
+13
+00:00:48,000 --> 00:00:53,000
+Por favor, pon ambos números, que sumados deben dar 1.
+
+14
+00:00:53,000 --> 00:00:55,000
+Mandalos y haz click en "next".
+
+15
+00:00:55,000 --> 00:00:57,000
+Debo advertirte que es una pregunta complicada.
+
+16
+00:00:57,000 --> 00:01:00,000
+Si no aciertas, no te preocupes.
+
+17
+00:01:00,000 --> 00:01:03,000
+Estas son las cosas que sabrás cuando hayas hecho el curso.
+
+18
+00:01:03,000 --> 99:59:59,999
+Sólo quiero provocarte un poco al principio.

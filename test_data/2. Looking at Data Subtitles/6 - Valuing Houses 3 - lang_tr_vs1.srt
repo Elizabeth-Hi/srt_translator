@@ -1,0 +1,4 @@
+1
+00:00:00,000 --> 00:00:07,000
+Şimdiki soru ise daha hileli bir soru--eğer 2100 ft kare büyüklüğünde bir ev almak istiyorsanız ne kadar ödemeyi beklersiniz?
+

@@ -1,0 +1,27 @@
+1
+00:00:00,000 --> 00:00:02,000
+Moj je odgovor 50 prijatelja.
+
+2
+00:00:02,000 --> 00:00:05,000
+Do toga sam došao jer ne znam koji ste vi tip,
+
+3
+00:00:05,000 --> 00:00:10,000
+sa šansom od 50% ili 1/2 da ste tip A, u slučaju čega imate 80 prijatelja,
+
+4
+00:00:10,000 --> 00:00:14,000
+i šansom od 50% da ste tip B te imate 20 prijatelja.
+
+5
+00:00:14,000 --> 00:00:17,000
+To mi daje ovu jednadžbu o očekivanom broju prijatelja.
+
+6
+00:00:17,000 --> 00:00:22,000
+Kad to izračunamo, dobijemo da imate 40 + 10 = 50 prijatelja.
+
+7
+00:00:22,000 --> 99:59:59,999
+Za sada je sve jasno, ali zašto ste nepopularni?

@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:02,000
+La mia risposta è: 50 amici.
+
+2
+00:00:02,000 --> 00:00:05,000
+Ecco come ci sono arrivato. Non so di che tipo sei.
+
+3
+00:00:05,000 --> 00:00:10,000
+Con una probabilità del 50% (o 1/2) sei del tipo A, nel qual caso hai 80 amici,
+
+4
+00:00:10,000 --> 00:00:14,000
+e con una probabilità del 50% sei del tipo B e hai 20 amici.
+
+5
+00:00:14,000 --> 00:00:17,000
+Ottengo questa equazione per il numero atteso di amici.
+
+6
+00:00:17,000 --> 00:00:22,000
+Il risultato è che hai 40 + 10 = 50 amici.
+
+7
+00:00:22,000 --> 09:59:59,000
+Fin qui, tutto a posto. Ma perché dovresti essere impopolare?
+

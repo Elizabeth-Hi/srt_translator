@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:05,000
+Ovo je vaša Facebook ili G+ stranica, i vi se naravno smiješite.
+
+2
+00:00:05,000 --> 00:00:10,000
+Na njoj je popis vaših prijatelja, i mi već znamo da ih ima ili 80 ili 20.
+
+3
+00:00:10,000 --> 00:00:12,000
+Prema očekivanjima ima 50 prijatelja.
+
+4
+00:00:12,000 --> 00:00:15,000
+Nasumično izaberimo jednog od vaših prijatelja, recimo ovoga.
+
+5
+00:00:15,000 --> 00:00:20,000
+Ta osoba također ima Facebook ili G+ stranicu.
+
+6
+00:00:20,000 --> 00:00:23,000
+Prije nego što pitam koliko ta osoba ima prijatelja,
+
+7
+00:00:23,000 --> 00:00:29,000
+Uzmimo u obzir da je ona ili tip A ili tip B.
+
+8
+00:00:29,000 --> 00:00:34,000
+Imajte na umu da tip A ima 80 prijatelja, a tip B 20.
+
+9
+00:00:34,000 --> 00:00:41,000
+Ono što vas pitam je, kolika je vjerojatnost da ste izabrali prijatelja koji je tip A?
+
+10
+00:00:41,000 --> 00:00:43,000
+To bi trebao biti broj između 0 i 1.
+
+11
+00:00:43,000 --> 00:00:45,000
+Također ću vas pitati i suprotno.
+
+12
+00:00:45,000 --> 00:00:48,000
+Koliko je vjerojatno da ste izabrali osobu koja je tip B?
+
+13
+00:00:48,000 --> 00:00:53,000
+Molim vas da upišete oba broja, a suma tih brojeva bi trebala iznositi 1.
+
+14
+00:00:53,000 --> 00:00:55,000
+Prijavite i onda pritisnite iduće (next).
+
+15
+00:00:55,000 --> 00:00:57,000
+Upozoravam vas da je ovo teže pitanje.
+
+16
+00:00:57,000 --> 00:01:00,000
+Ne brinite, ako ne odgovorite točno.
+
+17
+00:01:00,000 --> 00:01:03,000
+Ovakve ćete stvari znati nakon što završite s predavanjima.
+
+18
+00:01:03,000 --> 09:59:59,000
+Želim vas samo malo izazvati na početku.
+

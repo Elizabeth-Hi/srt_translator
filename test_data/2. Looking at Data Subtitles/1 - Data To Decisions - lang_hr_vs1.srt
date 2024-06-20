@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:04,000
+Dobro došli na moja online predavanja statistike.
+
+2
+00:00:04,000 --> 00:00:09,000
+Temelj je statistike da svijet obiluje podacima,
+
+3
+00:00:09,000 --> 00:00:13,000
+a da mi, ljudi, moramo donositi odluke.
+
+4
+00:00:13,000 --> 00:00:16,000
+Statistika služi kako bi nam pomogla.
+
+5
+00:00:16,000 --> 00:00:23,000
+Njome se podaci pretvaraju u informacije kojima se, mi ljudi, možemo koristiti kad donosimo odluke.
+
+6
+00:00:23,000 --> 00:00:29,000
+Bilo da se bavite društvenim znanostima, medicinom, tehničkim znanostima, javnim interesom,
+
+7
+00:00:29,000 --> 00:00:37,000
+psihologijom, klimatologijom, robotikom, čak arheologijom, zdravstvom,
+
+8
+00:00:37,000 --> 00:00:45,000
+financijama, poduzetništvom i marketingom ili skoro bilo kojim drugim područjem koje se može izučavati.
+
+9
+00:00:45,000 --> 00:00:52,000
+Sva ta područja se sada vode podacima, uključujući i područja niskih vjerojatnosti poput biologije ili fizike
+
+10
+00:00:52,000 --> 00:00:55,000
+i toliko drugih.
+
+11
+00:00:55,000 --> 00:00:58,000
+Statistika je izvrsna disciplina za poznavati.
+
+12
+00:00:58,000 --> 00:01:02,000
+Univerzalna je, korisna i zabavna, kao što se nadam da ćete uvidjeti u predavanjima koja ću držati.
+

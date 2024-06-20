@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,000
+Laten we nu weer terug gaan naar de oorspronkelijke vraag.
+
+2
+00:00:02,000 --> 00:00:06,000
+Wat is de verwachte waarde van het aantal vrienden dat deze vriend heeft?
+
+3
+00:00:06,000 --> 00:00:08,000
+Zet het antwoord hier,
+
+4
+00:00:08,000 --> 00:00:10,000
+en net als eerder is het een moeilijke vraag.
+
+5
+00:00:10,000 --> 00:00:13,000
+Maak je geen zorgen als je 't niet weet.
+
+6
+00:00:13,000 --> 09:59:59,000
+Deze dingen gaan we uitgebreid behandelen.
+

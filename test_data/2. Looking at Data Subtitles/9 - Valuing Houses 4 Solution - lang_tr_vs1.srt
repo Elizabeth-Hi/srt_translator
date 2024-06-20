@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,000
+Ve cevap 120,000 dolar.
+
+2
+00:00:03,000 --> 00:00:09,000
+Demin ki mantığımıza göre 1500, 1400 ile 1800 arasında.
+
+3
+00:00:09,000 --> 00:00:13,000
+Aslında, 1400'den çeyrek mesafe kadar uzakta.
+
+4
+00:00:13,000 --> 00:00:20,000
+Bu durumda diyebiliriz ki, fiyatı da 1400 ile 1800 arasındaki fiyat farkının dörtte biri kadar, 1400 ün fiyatından fazla.
+
+5
+00:00:20,000 --> 00:00:26,000
+1400 ft karelik evin fiyatı 112,000 dolar ve fiyat farkının dörtte birini ekleyince,
+
+6
+00:00:26,000 --> 09:59:59,000
+fiyat 112,000 dolardan 120,000 dolara artıyor.
+

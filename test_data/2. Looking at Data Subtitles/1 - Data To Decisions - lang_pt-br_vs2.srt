@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:04,000
+Bem vindo ao meu curso online de estatística.
+
+2
+00:00:04,000 --> 00:00:09,000
+A base de estatística é que o mundo está cheio de dados
+
+3
+00:00:09,000 --> 00:00:13,000
+e nós, as pessoas, temos que tomar decisões.
+
+4
+00:00:13,000 --> 00:00:16,000
+Estatística vem ao nosso resgate.
+
+5
+00:00:16,000 --> 00:00:23,000
+Ela pega o dado e o transforma em informação que nós, as pessoas, podemos usar para tomar decisões.
+
+6
+00:00:23,000 --> 00:00:29,000
+Seja nas ciências sociais, medicina, engenharia, política pública,
+
+7
+00:00:29,000 --> 00:00:37,000
+psicologia, climatologia, robótica, até mesmo arqueologia, ciências da saúde,
+
+8
+00:00:37,000 --> 00:00:45,000
+finanças, negócios e marketing, ou qualquer outra disciplina que você possa estudar.
+
+9
+00:00:45,000 --> 00:00:52,000
+Todas essas agora são dirigidas por dados, incluindo campos improváveis como biologia ou física
+
+10
+00:00:52,000 --> 00:00:55,000
+e tantos outros.
+
+11
+00:00:55,000 --> 00:00:58,000
+Estatística é uma disciplina fantástica a saber.
+
+12
+00:00:58,000 --> 00:01:02,000
+Ela é universal, útil e divertida, como eu espero que você veja na aula que eu estou prestes a dar.

@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:03,000
+Jednostavnosti radi, recimo da postoje dva tipa ljudi.
+
+2
+00:00:03,000 --> 00:00:05,000
+Tip A su oni popularni.
+
+3
+00:00:05,000 --> 00:00:07,000
+Oni imaju 80 prijatelja.
+
+4
+00:00:07,000 --> 00:00:10,000
+Tip B su oni manje popularni. Oni imaju samo 20 prijatelja.
+
+5
+00:00:10,000 --> 00:00:14,000
+Sada možete reći da ja ne znam koji ste vi tip.
+
+6
+00:00:14,000 --> 00:00:19,000
+Izračunat ću ono što se zove očekivani ili prosječni broj prijatelja.
+
+7
+00:00:19,000 --> 00:00:23,000
+Da to učinim, pretpostavit ću da je polovina ljudi tip A,
+
+8
+00:00:23,000 --> 00:00:26,000
+a druga polovina tip B.
+
+9
+00:00:26,000 --> 00:00:28,000
+Evo vašeg prvog kviz pitanja u ovim predavanjima.
+
+10
+00:00:28,000 --> 00:00:33,000
+U ovo polje upišite broj za koji mislite da je očekivani ili prosječni broj prijatelja
+
+11
+00:00:33,000 --> 00:00:39,000
+ako imate 50% šanse biti tip A i 50% šanse biti tip B.
+
+12
+00:00:39,000 --> 00:00:41,000
+Kad ste gotovi, upišite ovdje.
+
+13
+00:00:41,000 --> 00:00:43,000
+Negdje tu dolje je gumb za prijavu.
+
+14
+00:00:43,000 --> 00:00:45,000
+Možete vidjeti je li vaš odgovor točan.
+
+15
+00:00:45,000 --> 00:00:47,000
+Bez obzira završite li ovo ili ne,
+
+16
+00:00:47,000 --> 00:00:49,000
+u jednom času pritisnite gumb za iduće (next)
+
+17
+00:00:49,000 --> 00:00:53,000
+i vidjet ćete moj odgovor.
+

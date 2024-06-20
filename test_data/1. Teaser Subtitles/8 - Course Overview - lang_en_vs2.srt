@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:02,000
+Let's talk about this class.
+
+2
+00:00:02,000 --> 00:00:04,000
+Most of the material is very basic.
+
+3
+00:00:04,000 --> 00:00:08,000
+It's the first class you would have in college if you're not a statistics major.
+
+4
+00:00:08,000 --> 00:00:12,000
+We teach you things like how to visualize data, how to summarize it,
+
+5
+00:00:12,000 --> 00:00:15,000
+how to run test, and even find trends.
+
+6
+00:00:15,000 --> 00:00:18,000
+But there are also a few nuggets in there that are challenges.
+
+7
+00:00:18,000 --> 00:00:21,000
+These are optional, and they're clearly marked as optional,
+
+8
+00:00:21,000 --> 00:00:25,000
+but I will let you prove some theorems along the way using little games that I play with you.
+
+9
+00:00:25,000 --> 00:00:29,000
+Most important, you'll be afforded the possibility to program the things you've learned.
+
+10
+00:00:29,000 --> 00:00:33,000
+Again, this is optional, because I don't expect you to have a programming background.
+
+11
+00:00:33,000 --> 00:00:35,000
+But give it a try.
+
+12
+00:00:35,000 --> 00:00:40,000
+I believe that through programming you learn the material much better than any other way.
+
+13
+00:00:40,000 --> 00:00:42,000
+It's optional. You can assimilate all the material without it.
+
+14
+00:00:42,000 --> 99:59:59,999
+But I would recommend to give it a try if you know how to program.

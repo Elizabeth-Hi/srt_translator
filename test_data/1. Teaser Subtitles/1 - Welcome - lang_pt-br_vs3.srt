@@ -1,0 +1,43 @@
+1
+00:00:00,000 --> 00:00:05,000
+Bem vindo à Estatística 101, ensinado por mim, Sebastian Thrun e Adam Sherwin,
+
+2
+00:00:05,000 --> 00:00:08,000
+que é o instrutor assistente com bastante trabalho por trás dos panos.
+
+3
+00:00:08,000 --> 00:00:12,000
+Eu vou começar com uma brincadeira, um desafio.
+
+4
+00:00:12,000 --> 00:00:14,000
+Eu vou te provocar.
+
+5
+00:00:14,000 --> 00:00:16,000
+Esse é você.
+
+6
+00:00:16,000 --> 00:00:18,000
+Eu acredito que você deva estar triste,
+
+7
+00:00:18,000 --> 00:00:20,000
+não porque nossa aula é ruim,
+
+8
+00:00:20,000 --> 00:00:24,000
+mas porque você e eu vamos provar em um segundo que você não é popular.
+
+9
+00:00:24,000 --> 00:00:26,000
+A razão porque eu mostro isso
+
+10
+00:00:26,000 --> 00:00:29,000
+é para mostrar o quão profundo estatística é
+
+11
+00:00:29,000 --> 00:00:33,000
+e como nós podemos facilmente nos enganar. Então vamos começar.

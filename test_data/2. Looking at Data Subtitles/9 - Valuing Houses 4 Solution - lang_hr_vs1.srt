@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,000
+Da, odgovor je $120 000.
+
+2
+00:00:03,000 --> 00:00:09,000
+Našom logikom, 1500 leži točno između 1400 i 1800.
+
+3
+00:00:09,000 --> 00:00:13,000
+Zapravo, na četvrtini je puta od 1400.
+
+4
+00:00:13,000 --> 00:00:20,000
+Rekli bi da je to $112,000 plus 1/4 između 1400 do 1800.
+
+5
+00:00:20,000 --> 00:00:26,000
+To je razlika u cijeni kuće od 1800 kvadratnih stopa i one od 1400 kvadratnih stopa,
+
+6
+00:00:26,000 --> 09:59:59,000
+dodavanjem četvrtine dođemo od $112,000 do $120,000.
+

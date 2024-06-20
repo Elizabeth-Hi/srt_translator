@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:03,000
+Sim, a resposta é $120.
+
+2
+00:00:03,000 --> 00:00:09,000
+Pela nossa lógica, 1500 está entre 1400 e 1800.
+
+3
+00:00:09,000 --> 00:00:13,000
+Na verdade, é um quarto a partir de 1400.
+
+4
+00:00:13,000 --> 00:00:20,000
+Nós podemos dizer que é $112.000 mais 1/4 do caminho de 1400 para 1800.
+
+5
+00:00:20,000 --> 00:00:26,000
+Essa é a diferença de preço entre uma casa de 1800 pés quadrados e uma de 1400
+
+6
+00:00:26,000 --> 99:59:59,999
+Adicionando um quarto disso nos leva de $112.000 para $120.000

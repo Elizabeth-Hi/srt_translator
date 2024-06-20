@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,000
+Sí la respuesta es $120,000
+
+2
+00:00:03,000 --> 00:00:09,000
+Por lógica, 1500 está entre 1400 y 1800
+
+3
+00:00:09,000 --> 00:00:13,000
+De hecho, está a un cuarto de 1400
+
+4
+00:00:13,000 --> 00:00:20,000
+Podemos decir está a $112,000 más 1/4 de camino de 1400 a 1800
+
+5
+00:00:20,000 --> 00:00:26,000
+Esa es la diferencia de precio de una casa de 1800 pies cuadrados y una casa de 1400 pies cuadrados
+
+6
+00:00:26,000 --> 99:59:59,000
+Añadir un cuarto a esto, nos da de $112,000 a sólo $120,000
+

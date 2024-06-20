@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:02,000
+Essa é mais complicada.
+
+2
+00:00:02,000 --> 00:00:04,000
+Eu vou responde-la da seguinte forma
+
+3
+00:00:04,000 --> 00:00:10,000
+2100 está na metade do caminho entre 1800 e 2400
+
+4
+00:00:10,000 --> 00:00:15,000
+Se você tirar metade da diferença entre $144.000 e $192.000
+
+5
+00:00:15,000 --> 99:59:59,999
+nós obtemos a média entre 144 e 192 mil, e isto é $168.000

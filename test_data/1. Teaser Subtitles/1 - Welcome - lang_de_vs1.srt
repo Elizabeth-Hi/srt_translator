@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:05,000
+Willkommen zu Statistik 101, gelehrt von mir, Sebastian Thrun und von Adam Sherwin,
+
+2
+00:00:05,000 --> 00:00:08,000
+welcher unser Assistent ist und sehr viel Hintergrund arbeitet.
+
+3
+00:00:08,000 --> 00:00:12,000
+Ich schätze, ich fange damit an dir einen kleinen herausfordernden Anreiz zu geben.
+
+4
+00:00:12,000 --> 00:00:14,000
+Ich werde dich provozieren.
+
+5
+00:00:14,000 --> 00:00:16,000
+Also, das bist du.
+
+6
+00:00:16,000 --> 00:00:18,000
+Ich glaube du solltest unglücklich sein,
+
+7
+00:00:18,000 --> 00:00:20,000
+nicht weil unser Kurs so schlecht ist,
+
+8
+00:00:20,000 --> 00:00:24,000
+sondern weil ich in Kürze beweisen werde dass du unbeliebt bist.
+
+9
+00:00:24,000 --> 00:00:26,000
+Der Grund warum ich das zeige,
+
+10
+00:00:26,000 --> 00:00:29,000
+ist um dir zu zeigen wie weit Statistik geht,
+
+11
+00:00:29,000 --> 00:00:33,000
+und wie wir uns leicht etwas vormachen könnnen. Also lasst uns anfangen.
+

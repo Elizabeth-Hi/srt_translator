@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:03,000
+Bueno, en nuestro primer quiz vamos a determinarlo
+
+2
+00:00:03,000 --> 00:00:10,000
+Resulta ser que se vendió otra del mismo tamaño y se ofreció en $104,000
+
+3
+00:00:10,000 --> 00:00:14,000
+En términos de la estadística, la respuesta es $104,000
+
+4
+00:00:14,000 --> 00:00:17,000
+Esta no es clase de la teoría del juego
+
+5
+00:00:17,000 --> 00:00:19,000
+Obviamente, no quieres una oferta de ese tipo
+
+6
+00:00:19,000 --> 99:59:59,000
+pero en términos de estadística, eso es lo que se espera que pagues
+

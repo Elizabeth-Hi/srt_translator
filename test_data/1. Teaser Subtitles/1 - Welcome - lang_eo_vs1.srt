@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:02,000
+Bonvenon al Statistics 101,
+
+2
+00:00:02,000 --> 00:00:03,770
+instruita de mi, Sebastian Thrun
+
+3
+00:00:03,770 --> 00:00:05,410
+kaj de Adam Sherwin,
+
+4
+00:00:05,410 --> 00:00:06,810
+kiu estas nia asistanta instruisto,
+
+5
+00:00:06,810 --> 00:00:07,990
+kaj laboras multe fone.
+
+6
+00:00:07,990 --> 00:00:09,450
+Mi supozas ke mi komencos
+
+7
+00:00:09,450 --> 00:00:12,300
+per doni al vi puzlon, malfacilan puzlon.
+
+8
+00:00:12,300 --> 00:00:13,470
+Mi incitos vin.
+
+9
+00:00:13,850 --> 00:00:15,290
+Nu, jen vi.
+
+10
+00:00:15,290 --> 00:00:17,630
+Mi kredas ke vi devus esti malfeliĉa,
+
+11
+00:00:17,630 --> 00:00:19,190
+ne ĉar nia klaso estas tiel malbona,
+
+12
+00:00:19,190 --> 00:00:21,430
+sed ĉar vi kaj mi demonstros baldaŭ
+
+13
+00:00:21,430 --> 00:00:23,100
+ke vi estas nepopulara.
+
+14
+00:00:23,100 --> 00:00:26,960
+Mi montras tion por montri al vi
+
+15
+00:00:26,960 --> 00:00:28,050
+kiel profunda estas statistiko
+
+16
+00:00:28,050 --> 00:00:30,250
+kaj kiel ni facile povas mistifiki sin.
+
+17
+00:00:30,250 --> 00:00:31,440
+Do, ni komencu.
+

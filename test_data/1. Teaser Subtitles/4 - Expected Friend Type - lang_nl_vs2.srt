@@ -1,0 +1,71 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hier is je Facebook of G + pagina, en natuurlijk lach je.
+
+2
+00:00:05,000 --> 00:00:10,000
+Hier staat je vriendenlijst, en wij weten al dat je 80 of 20 vrienden hebt.
+
+3
+00:00:10,000 --> 00:00:12,000
+Het verwachte aantal is 50 vrienden.
+
+4
+00:00:12,000 --> 00:00:15,000
+Laten we willekeurig één van je vrienden kiezen, zoals deze.
+
+5
+00:00:15,000 --> 00:00:20,000
+Deze persoon zal ook een Facebook of een G + pagina hebben.
+
+6
+00:00:20,000 --> 00:00:23,000
+Voordat ik de vraag stel hoeveel vrienden deze persoon heeft,
+
+7
+00:00:23,000 --> 00:00:29,000
+laten we er even bij stilstaan dat dit ofwel een type A ofwel een type B persoon is.
+
+8
+00:00:29,000 --> 00:00:34,000
+Houd in gedachten dat type A mensen 80 vrienden hebben en type B mensen 20.
+
+9
+00:00:34,000 --> 00:00:41,000
+De vraag die ik voor jou heb is: "Wat is de kans dat je een type A vriend gekozen hebt?"
+
+10
+00:00:41,000 --> 00:00:43,000
+Dit moet een getal tussen 0 en 1 zijn.
+
+11
+00:00:43,000 --> 00:00:45,000
+Ik ga je ook het tegenovergestelde vragen.
+
+12
+00:00:45,000 --> 00:00:48,000
+Wat is de kans dat je een type B gekozen hebt?
+
+13
+00:00:48,000 --> 00:00:53,000
+Voer beide getallen in, en deze getallen moeten samengeteld 1 zijn.
+
+14
+00:00:53,000 --> 00:00:55,000
+Klik op "Submit" en dan "Next".
+
+15
+00:00:55,000 --> 00:00:57,000
+Ik moet je waarschuwen, dit is een moeilijke vraag.
+
+16
+00:00:57,000 --> 00:01:00,000
+Als je het niet goed hebt, maak je dan geen zorgen.
+
+17
+00:01:00,000 --> 00:01:03,000
+Dit is het soort dingen dat je zal kunnen als je de cursus hebt gevolgd.
+
+18
+00:01:03,000 --> 99:59:59,999
+Ik wil je gewoon een klein beetje uitdagen in het begin.

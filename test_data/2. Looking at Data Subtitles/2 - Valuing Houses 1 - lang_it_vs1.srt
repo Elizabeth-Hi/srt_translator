@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:06,000
+Uno dei problemi classici che si studiano in statistica ha a che fare con le decisioni di acquisto.
+
+2
+00:00:06,000 --> 00:00:09,000
+Supponi di voler comprare una casa.
+
+3
+00:00:09,000 --> 00:00:16,000
+Ci sono case piccole e grandi. Ma a te piace proprio questa particolare casa
+
+4
+00:00:16,000 --> 00:00:18,000
+costruita da un famoso designer.
+
+5
+00:00:18,000 --> 00:00:20,000
+Questa casa ha un certo prezzo.
+
+6
+00:00:20,000 --> 00:00:24,000
+Diciamo $92,000.00, in dollari americani.
+
+7
+00:00:24,000 --> 00:00:27,000
+La domanda che ti poni è: è giusto?
+
+8
+00:00:27,000 --> 00:00:32,000
+È troppo - dovresti pagare meno - o troppo poco?
+
+9
+00:00:32,000 --> 00:00:34,000
+Andiamo a scoprirlo.
+
+10
+00:00:34,000 --> 00:00:38,000
+In statistica, il modo per scoprire le cose è guardare i dati.
+
+11
+00:00:38,000 --> 00:00:43,000
+Supponiamo che esista un database di vendite precedenti
+
+12
+00:00:43,000 --> 00:00:45,000
+di case nello stesso quartiere.
+
+13
+00:00:45,000 --> 00:00:49,000
+Per semplicità, supponiamo di avere dati su due fatti:
+
+14
+00:00:49,000 --> 00:00:53,000
+la dimensione della casa e il costo al quale è stata venduta.
+
+15
+00:00:53,000 --> 00:00:59,000
+C'è una casa di 1400 piedi quadrati venduta a $112.000,
+
+16
+00:00:59,000 --> 00:01:06,000
+una molto più grande di 2400 piedi quadrati venduta per $192.000,
+
+17
+00:01:06,000 --> 00:01:10,000
+e così via per un numero intero di altre case.
+
+18
+00:01:10,000 --> 00:01:12,000
+Ora è un problema di statistica.
+
+19
+00:01:12,000 --> 00:01:17,000
+Hai i dati del passato, e qui c'è il tuo primo quiz.
+
+20
+00:01:17,000 --> 00:01:23,000
+Diciamo che la casa che vuoi comprare ha una superficie di 1300 piedi quadrati.
+
+21
+00:01:23,000 --> 09:59:59,000
+Quanti soldi dovresti aspettarti di pagare?
+

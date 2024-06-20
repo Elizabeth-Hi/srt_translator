@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:02,000
+E aqui esta a resposta surpreendente
+
+2
+00:00:02,000 --> 00:00:05,000
+São 68 amigos.
+
+3
+00:00:05,000 --> 00:00:07,000
+Quem iria imaginar?
+
+4
+00:00:07,000 --> 00:00:12,000
+A forma de chegar lá é que com chance 0.8 você escolherá o tipo A, que tem 80 amigos.
+
+5
+00:00:12,000 --> 00:00:16,000
+e com chance 0.2 você escolherá o tipo B, com 20 amigos.
+
+6
+00:00:16,000 --> 00:00:21,000
+Somando os dois, isso é 64+4, que dá 68 no total.
+
+7
+00:00:21,000 --> 00:00:27,000
+A expectativa é de que seu amigo teria 68 amigos enquanto você teria apenas 50.
+
+8
+00:00:27,000 --> 99:59:59,999
+Então sinto muito, mas eu acho que você não é popular, na expectativa.

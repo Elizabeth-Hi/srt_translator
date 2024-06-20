@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+Imagino que agora você provavelmente já tenha descoberto,
+
+2
+00:00:02,000 --> 00:00:08,000
+mas deixe-me perguntar só para ter certeza de que você entende a lógica por trás desse conjunto de dados específico.
+
+3
+00:00:08,000 --> 00:00:12,000
+Qual o custo da casa por pé quadrado?
+
+4
+00:00:12,000 --> 99:59:59,999
+Aqui está meu pé quadrado, por favor, responda nessa caixa aqui.

@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:06,000
+Um dos problemas convencionas que as pessoas estudam em estatística tem a ver com decisões de compra.
+
+2
+00:00:06,000 --> 00:00:09,000
+Suponha que você queira comprar uma casa.
+
+3
+00:00:09,000 --> 00:00:16,000
+Existem casas pequenas e grandes, mas você gosta mesmo dessa casa em particular
+
+4
+00:00:16,000 --> 00:00:18,000
+construida por um arquiteto famoso.
+
+5
+00:00:18,000 --> 00:00:20,000
+Essa casa tem um certo preço
+
+6
+00:00:20,000 --> 00:00:24,000
+Digamos que em dólares americanos seja $92,000.00
+
+7
+00:00:24,000 --> 00:00:27,000
+A pergunta que você se faz é "esse valor está correto?"
+
+8
+00:00:27,000 --> 00:00:32,000
+É muito alto e você deveria pagar menos? ou muito baixo?
+
+9
+00:00:32,000 --> 00:00:34,000
+Vamos descobrir.
+
+10
+00:00:34,000 --> 00:00:38,000
+Em estatística, a forma como descobrimos é olhando os dados.
+
+11
+00:00:38,000 --> 00:00:43,000
+Vamos assumir que há um banco de dados de vendas passadas
+
+12
+00:00:43,000 --> 00:00:45,000
+de casas no mesmo bairro.
+
+13
+00:00:45,000 --> 00:00:49,000
+Só para simplificar, vamos assumir que nós sabemos duas coisas:
+
+14
+00:00:49,000 --> 00:00:53,000
+o tamanho da casa e o valor no qual ela foi vendida.
+
+15
+00:00:53,000 --> 00:00:59,000
+Existe uma casa com 1400 pés quadrados, vendida por $112.000,
+
+16
+00:00:59,000 --> 00:01:06,000
+e outra muito maior com 2400 pés quadrados vendida por $192.000,
+
+17
+00:01:06,000 --> 00:01:10,000
+e assim por diante para um conjunto inteiro de outras casas.
+
+18
+00:01:10,000 --> 00:01:12,000
+Agora esse é um problema de estatística.
+
+19
+00:01:12,000 --> 00:01:17,000
+Você tem dado passado, e aqui está o seu primeiro teste.
+
+20
+00:01:17,000 --> 00:01:23,000
+Digamos que a casa que você quer comprar tem 1300 pés quadrados
+
+21
+00:01:23,000 --> 99:59:59,999
+Quanto você esperaria pagar?
