@@ -1,6 +1,7 @@
 import re
 import os
 import shutil
+import pysrt
 
 from translate import translate_text
 
@@ -104,3 +105,14 @@ def move_srt_files(path):
                         dest_file_path = os.path.join(video_dir_path, file)
                         shutil.move(src_file_path, dest_file_path)
                         print(f"Moved: {src_file_path} to {dest_file_path}")
+
+
+def extract_subtitles(file_path):
+    """
+    用pysrt提取字幕文件中的内容
+
+    Args:
+        file_path (str): 字幕文件路径
+    """
+    subs = pysrt.open(file_path)
+    return [{'start': sub.start.to_time(), 'end': sub.end.to_time(), 'text': sub.text} for sub in subs]
