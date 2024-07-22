@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+I guess by now you've probably figured it out,
+
+2
+00:00:02,000 --> 00:00:08,000
+but let me ask you just to make sure you understand the logic behind this specific data set.
+
+3
+00:00:08,000 --> 00:00:12,000
+What is the cost of the home per square foot?
+
+4
+00:00:12,000 --> 99:59:59,999
+Here's my square foot, and please answer in the box over here.

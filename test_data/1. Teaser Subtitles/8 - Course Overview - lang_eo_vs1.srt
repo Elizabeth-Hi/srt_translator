@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:01,240
+Ni diru pri ĉi tiu klaso.
+
+2
+00:00:01,240 --> 00:00:03,110
+La plejparto de la materialo estas tre principa.
+
+3
+00:00:03,110 --> 00:00:05,000
+Ĝi estas la unuan klason vi havus,
+
+4
+00:00:05,000 --> 00:00:08,000
+se via kolegia majoro ne estus statistiko.
+
+5
+00:00:08,000 --> 00:00:10,320
+Ni instruas al vi kiel oni povas imagi datunojn,
+
+6
+00:00:10,320 --> 00:00:12,000
+kiel resumi ĝin,
+
+7
+00:00:12,000 --> 00:00:15,000
+kiel fari testojn, kaj eĉ trovi korelaciojn
+
+8
+00:00:15,000 --> 00:00:16,360
+Sed ankaŭ estas kelkaj pecoj ĉi tie
+
+9
+00:00:16,360 --> 00:00:18,000
+kioj estas enigmoj.
+
+10
+00:00:18,000 --> 00:00:21,000
+Tiuj estas fakultativa, kaj klare markiĝas tiel,
+
+11
+00:00:21,000 --> 00:00:23,100
+sed mi lasos vin demonstri kelkajn teoremojn
+
+12
+00:00:23,100 --> 00:00:25,060
+per malgrandaj ludoj, kiujn mi ludas kun vi.
+
+13
+00:00:25,060 --> 00:00:27,260
+Plej grave, mi donos al vi la eblon por
+
+14
+00:00:27,260 --> 00:00:29,000
+programi kion vi lernis mem,
+
+15
+00:00:29,000 --> 00:00:30,570
+Denove, ĉi tio estas fakultativa, ĉar
+
+16
+00:00:30,570 --> 00:00:33,000
+mi ne atendas ke vi estas lerta programisto.
+
+17
+00:00:33,000 --> 00:00:35,000
+Sed provetu ĝin.
+
+18
+00:00:35,000 --> 00:00:37,000
+Mi kredas ke per programado, vi lernos
+
+19
+00:00:37,000 --> 00:00:39,740
+pli bone ol ia alia maniero.
+
+20
+00:00:39,740 --> 00:00:42,300
+Ĝi estas fakultativa. Vi povas asimili la materialon
+
+21
+00:00:42,300 --> 00:00:44,345
+sen ĝin. Sed mi rekomendus provi ĝin,
+
+22
+00:00:44,345 --> 00:00:46,835
+se vi scipovas programi.
+

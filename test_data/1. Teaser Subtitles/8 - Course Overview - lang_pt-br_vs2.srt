@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:02,000
+Vamos conversar sobre esse curso.
+
+2
+00:00:02,000 --> 00:00:04,000
+A maior parte do material é bem básica.
+
+3
+00:00:04,000 --> 00:00:08,000
+É a primeira disciplina que você teria na faculdade, se fizer um curso que não seja focado em estatística.
+
+4
+00:00:08,000 --> 00:00:12,000
+Nós vamos lhe ensinar coisas como visualizar dados, como resumi-los,
+
+5
+00:00:12,000 --> 00:00:15,000
+como realizar testes e até encontrar tendências.
+
+6
+00:00:15,000 --> 00:00:18,000
+Más também há alguns pedaços que são desafios.
+
+7
+00:00:18,000 --> 00:00:21,000
+Esses são opcionais e são claramente marcados como opcionais,
+
+8
+00:00:21,000 --> 00:00:25,000
+mas eu vou deixar você provar alguns teoremas ao longo do caminho usando pequenos jogos que vou jogar com você.
+
+9
+00:00:25,000 --> 00:00:29,000
+O mais importante, você terá a possibilidade de programar as coisas que você aprendeu.
+
+10
+00:00:29,000 --> 00:00:33,000
+Novamente, isso é opcional, porque eu nao espero que você tenha um conhecimento prévio de programação.
+
+11
+00:00:33,000 --> 00:00:35,000
+Mas tente.
+
+12
+00:00:35,000 --> 00:00:40,000
+Eu acredito que através de programação voce aprende a matéria muito melhor que qualquer outra forma.
+
+13
+00:00:40,000 --> 00:00:42,000
+É opcional. Você pode assimilar todo a matéria sem ela.
+
+14
+00:00:42,000 --> 99:59:59,999
+Mas eu recomendaria que você tentasse se você sabe como programar.

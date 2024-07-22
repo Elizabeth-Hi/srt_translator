@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:03,000
+Låt säga, för enkelhetens skull, att det
+finns två typer av människor, A & B.
+
+2
+00:00:03,000 --> 00:00:05,000
+A är de populära.
+
+3
+00:00:05,000 --> 00:00:07,000
+De har 80 vänner.
+
+4
+00:00:07,000 --> 00:00:10,000
+B är de mindre populära. 
+De har bara 20 vänner.
+
+5
+00:00:10,000 --> 00:00:14,000
+Du kanske påstår nu att jag inte vet
+vilken typ du är.
+
+6
+00:00:14,000 --> 00:00:19,000
+Jag kommer beräkna vad vi kallar det
+förväntade, eller medel, antal vänner.
+
+7
+00:00:19,000 --> 00:00:23,000
+För att göra det, antar vi att hälften
+av personerna är typ A
+
+8
+00:00:23,000 --> 00:00:26,000
+och den andra halvan är av typ B.
+
+9
+00:00:26,000 --> 00:00:28,000
+Nu till er första quiz i kursen.
+
+10
+00:00:28,000 --> 00:00:33,000
+I den här boxen, fyll i vad du tror är
+det förväntade antalet vänner,
+
+11
+00:00:33,000 --> 00:00:39,000
+om det är 50 % chans att du är typ A 
+och 50 % att du är typ B.
+
+12
+00:00:39,000 --> 00:00:41,000
+Fyll i ditt svar här när du är klar.
+
+13
+00:00:41,000 --> 00:00:43,000
+Det finns en inlämningsknapp någonstans
+här nere.
+
+14
+00:00:43,000 --> 00:00:45,000
+Du kan se om ditt svar är rätt.
+
+15
+00:00:45,000 --> 00:00:47,000
+Oavsett om du svarar eller inte,
+
+16
+00:00:47,000 --> 00:00:49,000
+trycker du på next-knappen
+
+17
+00:00:49,000 --> 00:00:53,000
+för att se mitt svar.
+

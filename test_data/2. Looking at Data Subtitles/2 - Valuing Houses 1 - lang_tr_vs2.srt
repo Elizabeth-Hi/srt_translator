@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:06,000
+İstatistikte insanların uğraştığı en standart problemlerden biri satın alma kararlarıdır.
+
+2
+00:00:06,000 --> 00:00:09,000
+Örneğin bir ev almak istediğinizi düşünelim.
+
+3
+00:00:09,000 --> 00:00:16,000
+Büyük evler ve küçük evler var ama siz, ünlü bir tasarımcı tarafından
+
+4
+00:00:16,000 --> 00:00:18,000
+tasarlanan bu çok özel evi beğendiniz.
+
+5
+00:00:18,000 --> 00:00:20,000
+Bu evin bir fiyatı var.
+
+6
+00:00:20,000 --> 00:00:24,000
+Örneğin 92,000.00 dolar olsun.
+
+7
+00:00:24,000 --> 00:00:27,000
+Kendinize sormanız gereken soru şu--bu iyi bir fiyat mı?
+
+8
+00:00:27,000 --> 00:00:32,000
+Çok mu fazla? ya da çok mu az?
+
+9
+00:00:32,000 --> 00:00:34,000
+Hadi bulalım.
+
+10
+00:00:34,000 --> 00:00:38,000
+İstatistikte bunu öğrenmenin yolu veriye bakmaktır.
+
+11
+00:00:38,000 --> 00:00:43,000
+Farz edelim ki elimizde aynı yöredeki önceki ev satışlarına dair
+
+12
+00:00:43,000 --> 00:00:45,000
+bir veritabanı var.
+
+13
+00:00:45,000 --> 00:00:49,000
+Problemi basitleştirmek için farz edelim ki
+
+14
+00:00:49,000 --> 00:00:53,000
+elimizde bir evlere ait iki çeşit bilgi var; evin büyüklüğü ve ne kadara satıldığı.
+
+15
+00:00:53,000 --> 00:00:59,000
+1400 ft karelik bir ev 112,000 dolara satılmış,
+
+16
+00:00:59,000 --> 00:01:06,000
+2400 ft karelik daha büyük bir ev ise 192,000 dolara satılmış,
+
+17
+00:01:06,000 --> 00:01:10,000
+ve bunun gibi bir dizi veri var.
+
+18
+00:01:10,000 --> 00:01:12,000
+Bu bir istatistik problemidir.
+
+19
+00:01:12,000 --> 00:01:17,000
+Elinizde geçmişteki veri var, ve işte ilk quiziniz.
+
+20
+00:01:17,000 --> 00:01:23,000
+Diyelim ki almak istediğiniz evin büyüklüğü 1300 ft kare.
+
+21
+00:01:23,000 --> 99:59:59,999
+Ne kadar para ödemeyi beklemelisiniz?

@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:09,000
+A resposta é $80 por pé quadrado e nós obtemos isso simplesmente dividindo 112.000 por 1.400.
+
+2
+00:00:09,000 --> 00:00:16,000
+Vê-se que este conjunto de dados tem essa incrível propriedade onde o custo por pé quadrado é constante.
+
+3
+00:00:16,000 --> 00:00:19,000
+Isso nos permite interpolar da forma como acabamos de fazer.
+
+4
+00:00:19,000 --> 00:00:23,000
+Em estatística, normalmente isso não ocorre, mas eu quero te parabenizar.
+
+5
+00:00:23,000 --> 00:00:27,000
+Você concluiu a sua primeira unidade de estatística.
+
+6
+00:00:27,000 --> 00:00:30,000
+Parabéns. Você concluiu a Unidade 1.
+
+7
+00:00:30,000 --> 00:00:37,000
+Mas, ao seguirmos adiante, nós vamos consultar dados onde o custo pode nao ser simplesmente
+
+8
+00:00:37,000 --> 00:00:41,000
+um fator constante vezes o tamanho da casa.
+
+9
+00:00:41,000 --> 00:00:44,000
+Te vejo na próxima unidade.

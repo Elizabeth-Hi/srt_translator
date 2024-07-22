@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:01,650
+Ni diru ke estas du grupoj de homoj,
+
+2
+00:00:01,650 --> 00:00:03,430
+por esti simpla: grupo A kaj grupo B
+
+3
+00:00:03,430 --> 00:00:04,960
+Grupo A estas por la popularoj homoj.
+
+4
+00:00:04,960 --> 00:00:06,430
+Ili havas okdek amikojn.
+
+5
+00:00:06,430 --> 00:00:08,240
+Kaj grupo B estas malpli populara.
+
+6
+00:00:08,240 --> 00:00:09,660
+Ili nur havas dudek amikojn.
+
+7
+00:00:09,660 --> 00:00:10,870
+Vi eble nun dirus,
+
+8
+00:00:10,870 --> 00:00:13,780
+ke mi ne scias kion grupo enhavas vin.
+
+9
+00:00:13,780 --> 00:00:19,120
+Mi komputos kion estas la meznombro de amikoj.
+
+10
+00:00:19,120 --> 00:00:20,830
+Por fari tion, mi supozas ke
+
+11
+00:00:20,830 --> 00:00:23,050
+duono de la homoj estas en grupo A,
+
+12
+00:00:23,050 --> 00:00:25,050
+kaj duono de la homoj estas en grupo B.
+
+13
+00:00:25,050 --> 00:00:27,720
+Jen via unua demando en ĉi tiu klaso:
+
+14
+00:00:27,720 --> 00:00:29,720
+En ĉi tiun tekstujo, skribi kion ajn
+
+15
+00:00:29,720 --> 00:00:32,570
+vi pensas estas la meznombro de amikoj,
+
+16
+00:00:32,570 --> 00:00:34,570
+se vi havus kvindek procentan ŝancon
+
+17
+00:00:34,570 --> 00:00:38,570
+por esti en la grupo A aŭ B.
+
+18
+00:00:38,570 --> 00:00:40,800
+Tajpi ĉi tien kiam vi finas.
+
+19
+00:00:40,800 --> 00:00:42,800
+Estas submet-butono ie ajn malsupren.
+
+20
+00:00:42,800 --> 00:00:44,380
+Vi povas vidi ĉu vian solvon estas ĝusta.
+
+21
+00:00:44,380 --> 00:00:46,960
+Sendistinge se vi finos ĉi tion aŭ ne,
+
+22
+00:00:46,960 --> 00:00:48,785
+iam klaku la sekvont-butono,
+
+23
+00:00:48,785 --> 00:00:50,245
+kaj vi vidos mian solvon.
+

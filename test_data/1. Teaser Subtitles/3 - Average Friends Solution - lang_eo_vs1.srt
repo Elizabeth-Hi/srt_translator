@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:01,740
+Mia solvo estas kvindek amikoj.
+
+2
+00:00:01,740 --> 00:00:05,000
+Nu, mi ne scias kiun grupon enhavas vin
+
+3
+00:00:05,000 --> 00:00:07,000
+ĉar estas 50% ŝanco, ke vi estas
+
+4
+00:00:07,000 --> 00:00:09,630
+en grupo A kaj havas 80 amikojn,
+
+5
+00:00:09,630 --> 00:00:11,570
+kaj 50% ŝanco ke vi estas en
+
+6
+00:00:11,570 --> 00:00:13,310
+grupo B kaj havas 20 amikojn.
+
+7
+00:00:13,310 --> 00:00:15,540
+Tio donas al mi ĉi tiun ekvacion por komputi
+
+8
+00:00:15,540 --> 00:00:16,880
+la meznombro de amikoj.
+
+9
+00:00:16,880 --> 00:00:18,850
+Tio signifas ke vi havas 40 + 10,
+
+10
+00:00:18,850 --> 00:00:21,850
+do 50 amikojn.
+
+11
+00:00:21,850 --> 00:00:23,212
+Tiel fore, tiel bone,
+
+12
+00:00:23,212 --> 00:00:25,012
+sed kial vi estas nepopulara?
+

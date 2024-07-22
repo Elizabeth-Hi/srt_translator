@@ -1,0 +1,49 @@
+1
+00:00:00,000 --> 00:00:05,000
+Välkommen till Statistics 101, undervisat
+av mig, Sebastian Thrun och Adam Sherwin,
+
+2
+00:00:05,000 --> 00:00:08,000
+som är vår assistent och gör mycket av
+bakgrundsarbetet.
+
+3
+00:00:08,000 --> 00:00:12,000
+Jag tänkte börja med att ge er en uppgift,
+en utmanande uppgift.
+
+4
+00:00:12,000 --> 00:00:14,000
+Jag kommer provocera er.
+
+5
+00:00:14,000 --> 00:00:16,000
+Så, detta är du.
+
+6
+00:00:16,000 --> 00:00:18,000
+Jag tycker du borde vara olycklig,
+
+7
+00:00:18,000 --> 00:00:20,000
+inte för att klassen är så dålig,
+
+8
+00:00:20,000 --> 00:00:24,000
+utan för att vi strax kommer bevisa
+att du är impopulär.
+
+9
+00:00:24,000 --> 00:00:26,000
+Anledningen till att jag visar detta
+
+10
+00:00:26,000 --> 00:00:29,000
+är för att visa hur invecklad statistik är
+
+11
+00:00:29,000 --> 00:00:33,000
+och hur enkelt vi kan lura oss själva. 
+Låt oss köra igång.
+

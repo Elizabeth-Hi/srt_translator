@@ -1,0 +1,95 @@
+1
+00:00:00,000 --> 00:00:03,000
+Welcome back to Statistics 101.
+
+2
+00:00:03,000 --> 00:00:05,000
+Today, we do a case study.
+
+3
+00:00:05,000 --> 00:00:08,000
+The case study is based on data that you, the students, submitted
+
+4
+00:00:08,000 --> 00:00:12,000
+where on Facebook you all discussed my weight,
+
+5
+00:00:12,000 --> 00:00:14,000
+and you've all see me in this class
+
+6
+00:00:14,000 --> 00:00:18,000
+and a whopping 163 of you followed this very hidden Facebook discussion
+
+7
+00:00:18,000 --> 00:00:21,000
+and submitted your guesses.
+
+8
+00:00:21,000 --> 00:00:23,000
+Thanks to all of you, I now have a data set.
+
+9
+00:00:23,000 --> 00:00:28,000
+In my first study, I will treat your guesses as my data or sample
+
+10
+00:00:28,000 --> 00:00:31,000
+and somewhat abusing the nature of my own weight.
+
+11
+00:00:31,000 --> 00:00:34,000
+I treat my own weight as the hypothesis H0.
+
+12
+00:00:34,000 --> 00:00:37,000
+Technically speaking, this is a bit of an abuse.
+
+13
+00:00:37,000 --> 00:00:40,000
+We're not really testing whether my own weight is incorrect,
+
+14
+00:00:40,000 --> 00:00:43,000
+but you can still use the same math and have a lot of fun.
+
+15
+00:00:43,000 --> 00:00:47,000
+Towards the end of this exercise, you will actually find out my weight.
+
+16
+00:00:47,000 --> 00:00:49,000
+Please don't tell anybody.
+
+17
+00:00:49,000 --> 00:00:51,000
+Here is the actual data that was submitted by all of you.
+
+18
+00:00:51,000 --> 00:00:55,000
+One of the really interesting findings here--some of you had some fun.
+
+19
+00:00:55,000 --> 00:01:02,000
+In the data, you find a guess 1 * 10²², which is about the weight of the planet Pluto in kilograms.
+
+20
+00:01:02,000 --> 00:01:05,000
+Then there are three counter guesses with -1,
+
+21
+00:01:05,000 --> 00:01:09,000
+which makes me suspect that these numbers were submitted by the same person.
+
+22
+00:01:09,000 --> 00:01:15,000
+Some of you think I weigh 0 whereas others think I weigh 1000 kg--as much as a car.
+
+23
+00:01:15,000 --> 00:01:18,000
+Thank you so much. Very kind of you.
+
+24
+00:01:18,000 --> 99:59:59,999
+Let's take this data, and I'll ask you the first quiz.

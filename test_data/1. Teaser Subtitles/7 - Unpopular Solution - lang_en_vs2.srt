@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:02,000
+Here is my surprising answer.
+
+2
+00:00:02,000 --> 00:00:05,000
+It is 68 friends.
+
+3
+00:00:05,000 --> 00:00:07,000
+Who would have thought?
+
+4
+00:00:07,000 --> 00:00:12,000
+The way to get there is with 0.8 chance you'll pick a type A who has 80 friends
+
+5
+00:00:12,000 --> 00:00:16,000
+and with 0.2 chance you'll pick a type B who has 20 friends.
+
+6
+00:00:16,000 --> 00:00:21,000
+If you work this out this is 64 + 4, makes 68.
+
+7
+00:00:21,000 --> 00:00:27,000
+Your friend in expectation wold have 68 friends where you would only have 50 in expectation.
+
+8
+00:00:27,000 --> 99:59:59,999
+So, sorry, I think you are unpopular in expectation.

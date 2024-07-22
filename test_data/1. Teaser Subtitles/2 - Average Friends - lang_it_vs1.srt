@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:03,000
+Supponiamo per semplicità che ci sono due tipi di persone — tipo A e tipo b.
+
+2
+00:00:03,000 --> 00:00:05,000
+Quelli del tipo A sono i più popolari.
+
+3
+00:00:05,000 --> 00:00:07,000
+Hanno 80 amici.
+
+4
+00:00:07,000 --> 00:00:10,000
+E quelli di tipo B sono meno popolari. Hanno solo 20 amici.
+
+5
+00:00:10,000 --> 00:00:14,000
+Adesso potresti dirmi che io non so di che tipo tu sia.
+
+6
+00:00:14,000 --> 00:00:19,000
+Calcololerò quello che viene detto il numero previsto o medio di amici.
+
+7
+00:00:19,000 --> 00:00:23,000
+Per farlo, suppongo che metà delle persone sia del tipo A
+
+8
+00:00:23,000 --> 00:00:26,000
+e metà del tipo B.
+
+9
+00:00:26,000 --> 00:00:28,000
+Ecco il primo quiz di questo corso.
+
+10
+00:00:28,000 --> 00:00:33,000
+Inserisci in questa casella quello che pensi sia il numero atteso o medio di amici
+
+11
+00:00:33,000 --> 00:00:39,000
+se hai un 50% di probabilità di essere un tipo A e un 50% di probabilità di essere un tipo B.
+
+12
+00:00:39,000 --> 00:00:41,000
+Digitalo qui. Quando hai fatto,
+
+13
+00:00:41,000 --> 00:00:43,000
+trovi un pulsante di invio qui sotto.
+
+14
+00:00:43,000 --> 00:00:45,000
+Potrai vedere se la tua risposta è corretta.
+
+15
+00:00:45,000 --> 00:00:47,000
+Che tu trovi o meno la soluzione,
+
+16
+00:00:47,000 --> 00:00:49,000
+a un certo punto premi il pulsante Avanti
+
+17
+00:00:49,000 --> 00:00:53,000
+e vedrai la mia risposta.
+

@@ -1,0 +1,68 @@
+1
+00:00:00,000 --> 00:00:03,000
+Diyelim ki iki tip insan var --tip A ve tip B.
+
+2
+00:00:03,000 --> 00:00:05,000
+Tip A'lar popüler olanlar.
+
+3
+00:00:05,000 --> 00:00:07,000
+Bunların 80 tane arkadaşları var.
+
+4
+00:00:07,000 --> 00:00:10,000
+Ve Tip B'ler ise daha az popüler olanlar. Bunların ise 20 arkadaşları var.
+
+5
+00:00:10,000 --> 00:00:14,000
+Diyebilirsiniz ki sizin hangi tip olduğunuzu ben nerden bilebilirim?
+
+6
+00:00:14,000 --> 00:00:19,000
+Ben sadece beklenen ya da ortalama arkadaş sayısını hesaplayacağım.
+
+7
+00:00:19,000 --> 00:00:23,000
+Bunu yapmak için de farz edelim ki insanların yarısı tip A
+
+8
+00:00:23,000 --> 00:00:26,000
+ve kalan yarısı da tip B.
+
+9
+00:00:26,000 --> 00:00:28,000
+İşte bu dersteki ilk quiziniz.
+
+10
+00:00:28,000 --> 00:00:33,000
+Eğer tip A olma şansınız %50 ve tip B olma şansınız %50 ise
+
+11
+00:00:33,000 --> 00:00:39,000
+bu kutuya, beklenen veya ortalama arkadaş sayınızın kaç olduğunu düşünüyorsanız onu giriniz.
+
+12
+00:00:39,000 --> 00:00:41,000
+Hesapladığınızda buraya yazın
+
+13
+00:00:41,000 --> 00:00:43,000
+Aşağılarda bir yerde bir "submit" butonu var.
+
+14
+00:00:43,000 --> 00:00:45,000
+Cevabınız doğru mu değil mi görebilirsiniz.
+
+15
+00:00:45,000 --> 00:00:47,000
+Bunu yapın veya yapmayın,
+
+16
+00:00:47,000 --> 00:00:49,000
+bir süre sonra sadece "next" butonuna basın,
+
+17
+00:00:49,000 --> 00:00:53,000
+bu sayede cevabımı görebileceksiniz.
+

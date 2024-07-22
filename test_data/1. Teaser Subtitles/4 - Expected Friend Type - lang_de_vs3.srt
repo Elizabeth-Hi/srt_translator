@@ -1,0 +1,74 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hier ist dein Facebook oder G+ Profil und natürlich lächelst du.
+
+2
+00:00:05,000 --> 00:00:10,000
+Und dort ist deine Freundesliste und wir wissen bereits, 
+dass sie entweder 80 oder 20 Freunde enthält.
+
+3
+00:00:10,000 --> 00:00:12,000
+Der Erwartungswert ist 50 Freunde.
+
+4
+00:00:12,000 --> 00:00:15,000
+Lass uns zufällig einen deiner Freund auswählen. Etwa diesen hier.
+
+5
+00:00:15,000 --> 00:00:20,000
+Diese Person wird wiederum ein Facebook oder ein G+ Profil haben.
+
+6
+00:00:20,000 --> 00:00:23,000
+Bevor ich die Frage aufwerfe wieviele Freunde diese Person hat,
+
+7
+00:00:23,000 --> 00:00:29,000
+sollten wir bedenken, dass sie entweder eine 
+"Typ A" oder eine "Typ B" Person ist.
+
+8
+00:00:29,000 --> 00:00:34,000
+Behalte im Kopf, dass "Typ A" 80 und "Typ B" 20 Freunde hat.
+
+9
+00:00:34,000 --> 00:00:41,000
+Die Frage die ich für dich habe ist, wie groß ist die Wahrscheinlichkeit 
+einen "Typ A" Freund gewählt zu haben.
+
+10
+00:00:41,000 --> 00:00:43,000
+Sie sollte einer Zahl zwischen 0 und 1 entsprechen.
+
+11
+00:00:43,000 --> 00:00:45,000
+Ich werde dich auch nach dem Gegenteil fragen.
+
+12
+00:00:45,000 --> 00:00:48,000
+Wie groß ist die Wahrscheinlichkeit einen "Typ B" Freund gewählt zu haben?
+
+13
+00:00:48,000 --> 00:00:53,000
+Gib bitte beide Zahlen ein. Sie sollten addiert 1 ergeben.
+
+14
+00:00:53,000 --> 00:00:55,000
+"Submit" und dann "Next" drücken.
+
+15
+00:00:55,000 --> 00:00:57,000
+Ich sollte dich warnen: Das ist eine anspruchsvolle Frage.
+
+16
+00:00:57,000 --> 00:01:00,000
+Falls du sie nicht richtig beantwortest, mach dir keine Sorgen.
+
+17
+00:01:00,000 --> 00:01:03,000
+Das ist der Stoff, der dir vertraut sein wird, nachdem du die Klasse genommen hast.
+
+18
+00:01:03,000 --> 00:01:06,500
+Ich will dich nur gleich zu Beginn ein bisschen neugierig machen.

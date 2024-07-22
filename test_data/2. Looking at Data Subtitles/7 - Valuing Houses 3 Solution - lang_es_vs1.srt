@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,000
+Este ejercicio es un tanto complicado
+
+2
+00:00:02,000 --> 00:00:04,000
+Voy a contestarlo de la siguiente manera--
+
+3
+00:00:04,000 --> 00:00:10,000
+21 está justamente a la mitad entre 1800 y 2400
+
+4
+00:00:10,000 --> 00:00:15,000
+Si tomas la mitad entre $144,000 y $192,000
+
+5
+00:00:15,000 --> 99:59:59,000
+Obtenemos la media de 144 y 192 mil, que es $168,000
+

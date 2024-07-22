@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:02,000
+Vamos voltar e fazer a pergunta real.
+
+2
+00:00:02,000 --> 00:00:06,000
+Em expectativa, quantos amigos esse seu amigo tem?
+
+3
+00:00:06,000 --> 00:00:08,000
+Por favor preencha o número aqui,
+
+4
+00:00:08,000 --> 00:00:10,000
+e, novamente, esta é uma pergunta difícil.
+
+5
+00:00:10,000 --> 00:00:13,000
+Não se desespere se não souber a resposta.
+
+6
+00:00:13,000 --> 99:59:59,999
+Esse é o tipo de coisa que vamos estudar a fundo.

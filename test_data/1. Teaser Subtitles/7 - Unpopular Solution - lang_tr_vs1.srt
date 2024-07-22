@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:02,000
+İşte benim şaşırtıcı cevabım.
+
+2
+00:00:02,000 --> 00:00:05,000
+68.
+
+3
+00:00:05,000 --> 00:00:07,000
+Kim bilebilirdi ki?
+
+4
+00:00:07,000 --> 00:00:12,000
+Cevap şu şekilde: 0.8 şansla 80 arkadaşa sahip bir tip A'yı
+
+5
+00:00:12,000 --> 00:00:16,000
+ve 0.2 şansla 20 arkadaşı olan bir tip B'yi seçersiniz.
+
+6
+00:00:16,000 --> 00:00:21,000
+Bunu hesaplarsanız, 64 + 4, 68 eder.
+
+7
+00:00:21,000 --> 00:00:27,000
+Arkadaşınızın öngörülen arkadaş sayısı 68 iken sizin öngörülen arkadaş sayınız sadece 50.
+
+8
+00:00:27,000 --> 09:59:59,000
+Üzgünüm, öngörüde siz popüler değilsiniz.
+

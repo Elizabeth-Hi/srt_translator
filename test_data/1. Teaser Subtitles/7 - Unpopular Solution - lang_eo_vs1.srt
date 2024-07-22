@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:01,840
+Jen mia supriza respondo.
+
+2
+00:00:01,840 --> 00:00:05,000
+Ĝi estas 68 amikoj.
+
+3
+00:00:05,000 --> 00:00:06,560
+Kiu pensus tiel?
+
+4
+00:00:06,560 --> 00:00:08,580
+Ni solvas ĝin per fari tion:
+
+5
+00:00:08,580 --> 00:00:10,000
+Estas 0.8 ŝanco ke vi elektus A,
+
+6
+00:00:10,000 --> 00:00:11,840
+kiu havas 80 amikojn,
+
+7
+00:00:11,840 --> 00:00:13,470
+kaj estas 0.2 ŝanco ke vi elektus B,
+
+8
+00:00:13,470 --> 00:00:15,830
+kiu havas 20 amikojn.
+
+9
+00:00:15,830 --> 00:00:17,150
+Se vi kalkulus ĉi tion,
+
+10
+00:00:17,150 --> 00:00:20,171
+la solvo estas 64 + 4, do 68.
+
+11
+00:00:20,171 --> 00:00:23,941
+Via amiko, atende, havus 68 amikojn,
+
+12
+00:00:23,941 --> 00:00:26,111
+kaj vi nur havus 50 atende.
+
+13
+00:00:26,111 --> 00:00:28,751
+Do, mi pardonpetas, sed mi pensas,
+
+14
+00:00:28,757 --> 00:00:31,807
+ke vi estas malpopulara, atende.
+

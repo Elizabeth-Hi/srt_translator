@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:05,000
+Mesma pergunta, agora com 1800 pés quadrados.

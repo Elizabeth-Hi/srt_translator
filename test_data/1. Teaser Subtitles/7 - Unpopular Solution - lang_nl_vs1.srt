@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hier is het verassende antwoord
+
+2
+00:00:02,000 --> 00:00:05,000
+Het is 68 vrienden.
+
+3
+00:00:05,000 --> 00:00:07,000
+Wie had dat gedacht?
+
+4
+00:00:07,000 --> 00:00:12,000
+De manier om dat te berekenen is: met een kans van 0.8 kies je een A type met 80 vrienden,
+
+5
+00:00:12,000 --> 00:00:16,000
+en met een kans van 0.2 kies je een B type met 20 vrienden.
+
+6
+00:00:16,000 --> 00:00:21,000
+Als je dat uitrekent, is het 64 + 4 = 68.
+
+7
+00:00:21,000 --> 00:00:27,000
+Jouw vriend, heeft, naar verwachting, 68 vrienden, terwijl jij er, naar verwachting, 50 hebt.
+
+8
+00:00:27,000 --> 09:59:59,000
+Het spijt me, maar in verwachting ben je onpopulair.
+

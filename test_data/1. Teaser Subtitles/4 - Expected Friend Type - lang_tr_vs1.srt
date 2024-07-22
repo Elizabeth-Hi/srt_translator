@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:05,000
+İşte Facebook ya da Google+ sayfanız, ve tabii ki gülümsüyorsunuz.
+
+2
+00:00:05,000 --> 00:00:10,000
+Bu sayfadakiler sizin arkadaş listeniz, ve bildiğiniz gibi arkadaş sayınız ya 80 ya da 20.
+
+3
+00:00:10,000 --> 00:00:12,000
+Öngörülen ya da beklenen sayı ise 50.
+
+4
+00:00:12,000 --> 00:00:15,000
+Arkadaşlarınızdan rastgele bir tanesini seçelim, örneğin bunun gibi.
+
+5
+00:00:15,000 --> 00:00:20,000
+Bu arkadaşınızın da bir Facebook ya da Google+ sayfası var.
+
+6
+00:00:20,000 --> 00:00:23,000
+Bu kişinin kaç arkadaşı olduğunu sormadan önce,
+
+7
+00:00:23,000 --> 00:00:29,000
+bu kişinin tip A ya da tip B'den bir tanesi olduğunu göz önünde bulundurun.
+
+8
+00:00:29,000 --> 00:00:34,000
+Unutmayın ki tip A'nın arkadaş sayısı 80 ve tip B'nin arkadaş sayısı 20.
+
+9
+00:00:34,000 --> 00:00:41,000
+Size soracağım soru ise listeden seçtiğiniz bir arkadaşınızın tip A olma şansı nedir?
+
+10
+00:00:41,000 --> 00:00:43,000
+Bu, 0 ile 1 arasında bir sayı olmalıdır.
+
+11
+00:00:43,000 --> 00:00:45,000
+Buna ek olarak bir de bunun tam tersini soracağım.
+
+12
+00:00:45,000 --> 00:00:48,000
+Seçtiğiniz arkadaşınızın tip B olma şansı nedir?
+
+13
+00:00:48,000 --> 00:00:53,000
+Lütfen iki sayıyı da girin. İki sayının toplamının 1 olması gerekiyor.
+
+14
+00:00:53,000 --> 00:00:55,000
+Önce "Submit" sonra "Next".
+
+15
+00:00:55,000 --> 00:00:57,000
+Sizi uyarıyorum, bu soru zorlayıcı bir soru.
+
+16
+00:00:57,000 --> 00:01:00,000
+Eğer anlamadıysanız, üzülmeyin.
+
+17
+00:01:00,000 --> 00:01:03,000
+Bu tarz sorular, bu dersi aldıktan sonra öğrenmiş olacağınız sorular.
+
+18
+00:01:03,000 --> 09:59:59,000
+Size sadece baştan bir şeyler göstermek istiyorum.
+

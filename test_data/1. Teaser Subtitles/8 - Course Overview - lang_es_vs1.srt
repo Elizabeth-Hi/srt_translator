@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:02,000
+Vamos a hablar de esta clase
+
+2
+00:00:02,000 --> 00:00:04,000
+La mayoría del material es muy básico,
+
+3
+00:00:04,000 --> 00:00:08,000
+Sería la primera clase que tendrías en la Universidad, si no fueras un estadístico
+
+4
+00:00:08,000 --> 00:00:12,000
+Te vamos a enseñar cosas como: visualizar información, como resumirla
+
+5
+00:00:12,000 --> 00:00:15,000
+como correr pruebas e incluso encontrar tendencias
+
+6
+00:00:15,000 --> 00:00:18,000
+Pero hay un poco de cosas que son desafiantes
+
+7
+00:00:18,000 --> 00:00:21,000
+Estas cosas son opcionales y claramente están marcadas como opcionales
+
+8
+00:00:21,000 --> 00:00:25,000
+pero voy a probar algunos teoremas a través del camino, mediante pequeños juegos que haré contigo
+
+9
+00:00:25,000 --> 00:00:29,000
+Lo más importante, tendrás la posibilidad de programar las cosas que haz aprendido
+
+10
+00:00:29,000 --> 00:00:33,000
+De nuevo, esto es opcional, por que no espero que tengas experiencia programando.
+
+11
+00:00:33,000 --> 00:00:35,000
+Pero dale una oportunidad
+
+12
+00:00:35,000 --> 00:00:40,000
+Considero que a través de la programación, vas a aprender el material mucho mejor
+
+13
+00:00:40,000 --> 00:00:42,000
+Es opcional. Puedes asimilar todo el material sin éste
+
+14
+00:00:42,000 --> 99:59:59,000
+Pero te recomiendo que le des una oportunidad, si no sabes como programar
+

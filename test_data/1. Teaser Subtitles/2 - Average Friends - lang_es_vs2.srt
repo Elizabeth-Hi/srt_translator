@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:03,000
+Para simplificar tomaremos dos grupos de gente: tipo A y tipo B.
+
+2
+00:00:03,000 --> 00:00:05,000
+Los del tipo A son los populares.
+
+3
+00:00:05,000 --> 00:00:07,000
+Tienen 80 amigos.
+
+4
+00:00:07,000 --> 00:00:10,000
+A los del tipo B les quieren menos. Sólo tienen 20 amigos.
+
+5
+00:00:10,000 --> 00:00:14,000
+En este punto podrías contestar que no tengo ni idea de a qué grupo perteneces.
+
+6
+00:00:14,000 --> 00:00:19,000
+Voy a calcular el valor previsto o valor promedio de amigos.
+
+7
+00:00:19,000 --> 00:00:23,000
+Para ello supondré que la mitad de la gente pertenece al tipo A
+
+8
+00:00:23,000 --> 00:00:26,000
+y la otra mitad al tipo B.
+
+9
+00:00:26,000 --> 00:00:28,000
+Este es tu primer examen del curso.
+
+10
+00:00:28,000 --> 00:00:33,000
+En este recuadro tienes que poner cual piensas que será el valor promedio de amigos
+
+11
+00:00:33,000 --> 00:00:39,000
+si hay un 50% de probabilidades de pertenecer al tipo A y otro 50% de pertenecer al tipo B.
+
+12
+00:00:39,000 --> 00:00:41,000
+Ponlo aquí cuando acabes.
+
+13
+00:00:41,000 --> 00:00:43,000
+El botón de enviar está por ahí debajo.
+
+14
+00:00:43,000 --> 00:00:45,000
+Puedes comprobar si tu respuesta es correcta.
+
+15
+00:00:45,000 --> 00:00:47,000
+Independientemente de si terminas o no,
+
+16
+00:00:47,000 --> 00:00:49,000
+puedes hacer click en "siguiente" en cualquier momento,
+
+17
+00:00:49,000 --> 00:00:53,000
+y aparecerá mi respuesta

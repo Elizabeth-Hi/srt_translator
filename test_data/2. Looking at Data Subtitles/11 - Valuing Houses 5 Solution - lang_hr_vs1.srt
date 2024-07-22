@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:09,000
+Odgovor je $80 po kvadratnoj stopi, a do toga dođemo tako što podijelimo $112,000 s 1400.
+
+2
+00:00:09,000 --> 00:00:16,000
+Ispada da ovaj set podataka ima začuđujuće svojstvo da je cijena kvadratne stope konstantna.
+
+3
+00:00:16,000 --> 00:00:19,000
+To nam dozvoljava da interpoliramo kao što jesmo.
+
+4
+00:00:19,000 --> 00:00:23,000
+To nije čest slučaj u statistici, ali želim vam čestitati.
+
+5
+00:00:23,000 --> 00:00:27,000
+Upravo ste odradili svoju prvu lekciju statistike.
+
+6
+00:00:27,000 --> 00:00:30,000
+Čestitam. Završili ste Lekciju 1.
+
+7
+00:00:30,000 --> 00:00:37,000
+Ali kako budemo napredovali, radit ćemo s podacima gdje cijena možda neće biti
+
+8
+00:00:37,000 --> 00:00:41,000
+konstanta pomnožena s veličinom kuće.
+
+9
+00:00:41,000 --> 00:00:44,000
+Vidimo se u idućoj lekciji.
+

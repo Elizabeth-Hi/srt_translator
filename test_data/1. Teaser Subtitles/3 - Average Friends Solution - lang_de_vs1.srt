@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:02,000
+Meine Antwort ist 50 Freunde.
+
+2
+00:00:02,000 --> 00:00:05,000
+So komme ich darauf, ich weiß nicht welcher Typ du bist,
+
+3
+00:00:05,000 --> 00:00:10,000
+mit 50 prozentiger Wahrscheinlichkeit oder 1/2 bist du vom Typ A, in dem Fall hast du 80 Freunde
+
+4
+00:00:10,000 --> 00:00:14,000
+und mit 50 prozentiger Wahrscheinlichkeit bist du vom Typ B und hast 20 Freunde.
+
+5
+00:00:14,000 --> 00:00:17,000
+Das gibt mir diese Gleichung hier, für die erwartete Anzahl an Freunden.
+
+6
+00:00:17,000 --> 00:00:22,000
+Wenn man das ausrechnet heißt das du hast 40 + 10 = 50 Freunde.
+
+7
+00:00:22,000 --> 09:59:59,000
+So weit, so gut, aber warum bist du unbeliebt?
+

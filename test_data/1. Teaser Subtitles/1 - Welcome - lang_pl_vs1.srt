@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:05,000
+Zapraszamy do kursu Statystyka 101, prowadzonego przeze mnie, Sebastiana Thruna, i Adama Sherwina,
+
+2
+00:00:05,000 --> 00:00:08,000
+który jest naszem instruktor asystującym wykonującym dużo pracy przygotowawczej.
+
+3
+00:00:08,000 --> 00:00:12,000
+Zacznę od postawienia przed Tobą wyzwania.
+
+4
+00:00:12,000 --> 00:00:14,000
+Mam zamiar Cię sprowokować.
+
+5
+00:00:14,000 --> 00:00:16,000
+To jesteś Ty.
+
+6
+00:00:16,000 --> 00:00:18,000
+Uważam, że powinieneś być niezadowolony,
+
+7
+00:00:18,000 --> 00:00:20,000
+nie dlatego, że nasz kurs jest taki zły,
+
+8
+00:00:20,000 --> 00:00:24,000
+ale dlatego, że razem udowodnimy za chwilę, że jesteś niepopularny.
+
+9
+00:00:24,000 --> 00:00:26,000
+Pokażę Ci to dlatego, żebyś zobaczył
+
+10
+00:00:26,000 --> 00:00:29,000
+jak głębokie mogą być wnioski płynące ze statystyki
+
+11
+00:00:29,000 --> 00:00:33,000
+i jak łatwo możemy się zbłaźnić. Do dzieła.
+

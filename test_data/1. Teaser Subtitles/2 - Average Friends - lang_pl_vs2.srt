@@ -1,0 +1,77 @@
+1
+00:00:00,000 --> 00:00:03,000
+Załóżmy, że istnieją dwa typy ludzi –
+typ A i typ B
+
+2
+00:00:03,000 --> 00:00:05,000
+Typ A to ci popularni:
+
+3
+00:00:05,000 --> 00:00:07,000
+Mają po 80 znajomych.
+
+4
+00:00:07,000 --> 00:00:10,000
+Typ B to ci mniej popularni.
+Mają tylko 20 znajomych.
+
+5
+00:00:10,000 --> 00:00:14,020
+Możesz teraz powiedzieć, że nie wiem,
+do którego typu należysz.
+
+6
+00:00:14,046 --> 00:00:19,588
+Obliczę tzw. oczekiwaną lub średnią
+liczbę znajomych.
+
+7
+00:00:19,588 --> 00:00:22,995
+By to zrobić, założę, że połowa wszystkich
+ludzi jest typu A
+
+8
+00:00:22,995 --> 00:00:25,618
+a druga połowa należy do typu B.
+
+9
+00:00:25,748 --> 00:00:27,987
+Czas na Twój pierwszy quiz w trakcie
+tego kursu.
+
+10
+00:00:27,987 --> 00:00:32,686
+Wpisz w to pole, co uważasz, że jest
+oczekiwaną (lub średnią) liczbą znajomych,
+
+11
+00:00:32,686 --> 00:00:39,270
+jeśli masz 50% szans należeć do typu A
+i 50% do typu B.
+
+12
+00:00:39,270 --> 00:00:41,089
+Wpisz tutaj, kiedy będziesz gotowy.
+
+13
+00:00:41,089 --> 00:00:43,596
+Gdzieś tu na dole jest przycisk
+'Submit' (wyślij).
+
+14
+00:00:43,596 --> 00:00:45,554
+Zobaczysz, czy Twoja odpowiedź
+jest poprawna.
+
+15
+00:00:45,554 --> 00:00:47,094
+Bez względu, czy wypełnisz quiz, czy nie,
+
+16
+00:00:47,094 --> 00:00:48,797
+naciśnij przycisk 'Next' (dalej),
+
+17
+00:00:48,797 --> 00:00:52,315
+żeby zobaczyć moją odpowiedź.

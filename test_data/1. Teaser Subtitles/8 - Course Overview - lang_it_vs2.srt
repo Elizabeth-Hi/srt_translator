@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:02,000
+Parliamo di questo corso.
+
+2
+00:00:02,000 --> 00:00:04,000
+Per la maggior parte è materiale di base.
+
+3
+00:00:04,000 --> 00:00:08,000
+È il primo corso che seguiresti all'università se non ti specializzi in statistica.
+
+4
+00:00:08,000 --> 00:00:12,000
+Ti insegniamo cose del tipo: come visualizzare i dati, come sintetizzarli,
+
+5
+00:00:12,000 --> 00:00:15,000
+come eseguire test e persino come scovare tendenze.
+
+6
+00:00:15,000 --> 00:00:18,000
+Ma ci sono anche alcune perle veramente impegnative.
+
+7
+00:00:18,000 --> 00:00:21,000
+Sono opzionali e sono chiaramente contrassegnate come opzionali,
+
+8
+00:00:21,000 --> 00:00:25,000
+ma, nel percorso, ti farò dimostrare alcuni teoremi attraverso dei giochetti che faremo insieme.
+
+9
+00:00:25,000 --> 00:00:29,000
+Ancor più importante è che ti sarà data la possibilità di programmare le cose che hai imparato.
+
+10
+00:00:29,000 --> 00:00:33,000
+Ancora una volta, questo è facoltativo, perché non mi aspetto che tu abbia una preparazione di programmazione.
+
+11
+00:00:33,000 --> 00:00:35,000
+Ma provaci.
+
+12
+00:00:35,000 --> 00:00:40,000
+Credo che attraverso la programmazione, tu possa apprendere il materiale molto meglio che in qualsiasi altro modo.
+
+13
+00:00:40,000 --> 00:00:42,000
+È facoltativo. Puoi assimilare tutto il materiale anche senza programmare.
+
+14
+00:00:42,000 --> 99:59:59,999
+Ma ti consiglierei di fare una prova, se sai programmare.

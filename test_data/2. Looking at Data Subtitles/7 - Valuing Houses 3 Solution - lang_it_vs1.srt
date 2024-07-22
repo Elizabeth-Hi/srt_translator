@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,000
+Questa è più complicata.
+
+2
+00:00:02,000 --> 00:00:04,000
+Risponderò nel modo seguente:
+
+3
+00:00:04,000 --> 00:00:10,000
+21 è giusto a metà strada tra 1800 e 2400.
+
+4
+00:00:10,000 --> 00:00:15,000
+Se prendiamo il valore a metà tra $144.000 e $192.000,
+
+5
+00:00:15,000 --> 09:59:59,000
+abbiamo la media di 144 e 192 mila, che è $168.000.
+

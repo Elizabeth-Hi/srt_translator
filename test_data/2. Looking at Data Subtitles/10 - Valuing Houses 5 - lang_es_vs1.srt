@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:02,000
+Supongo que a estas alturas, probablemente lo hayas descubierto
+
+2
+00:00:02,000 --> 00:00:08,000
+pero déjame preguntarte algo para asegurarme que hayas entendido la lógica detrás de estos datos específicos
+
+3
+00:00:08,000 --> 00:00:12,000
+¿Cuál es el costo por pie cuadrado?
+
+4
+00:00:12,000 --> 99:59:59,000
+Este es mi pie cuadrado y por favor pon tu respuesta en esta caja de aquí
+

@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,000
+Ali, to nije uvijek točno.
+
+2
+00:00:02,000 --> 00:00:07,000
+Vodim se pretpostavkom da podaci imaju određena svojstva, o čemu ću pričati poslije,
+
+3
+00:00:07,000 --> 00:00:12,000
+ali hajdemo dalje i pretpostavimo da možemo koristi taj trik za određivanje srednje cijene
+
+4
+00:00:12,000 --> 00:00:19,000
+između postojećih, kako bi odredili cijenu kuća drugih veličina kao od npr. 1500 kvadratnih stopa.
+
+5
+00:00:19,000 --> 09:59:59,000
+Molim vas da ovdje upišete svoj odgovor.
+

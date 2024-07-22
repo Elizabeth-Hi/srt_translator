@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:02,000
+Ecco la mia sorprendente risposta.
+
+2
+00:00:02,000 --> 00:00:05,000
+Sono 68 amici.
+
+3
+00:00:05,000 --> 00:00:07,000
+Chi avrebbe mai pensato?
+
+4
+00:00:07,000 --> 00:00:12,000
+La strada per arrivarci è questa. Hai probabilità 0,8 di scegliere un tipo A che ha 80 amici
+
+5
+00:00:12,000 --> 00:00:16,000
+e probabilità 0,2 di scegliere un tipo B che ha 20 amici.
+
+6
+00:00:16,000 --> 00:00:21,000
+Calcolando questo si ha 64 + 4 uguale 68.
+
+7
+00:00:21,000 --> 00:00:27,000
+Secondo le aspettative, il tuo amico avrà 68 amici, mentre tu ne hai solo 50.
+
+8
+00:00:27,000 --> 09:59:59,000
+Per ciò, mi dispiace, ma credo che tu sia impopolare, stando alle aspettative.
+

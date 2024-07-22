@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:03,860
+Jen via Fejsbuka aŭ G+ paĝo, kaj
+
+2
+00:00:03,860 --> 00:00:05,000
+kompreneble vi ridetas.
+
+3
+00:00:05,000 --> 00:00:07,000
+Sur ĝin estas via listo de amikoj, kaj
+
+4
+00:00:07,000 --> 00:00:10,000
+ni jam scias ke estas aŭ 80 aŭ 20 amikoj.
+
+5
+00:00:10,000 --> 00:00:12,000
+Laŭ nia atendo, estas 50 amikoj.
+
+6
+00:00:12,000 --> 00:00:15,000
+Ni elektu ajnon el niaj amikoj, tiel tiun.
+
+7
+00:00:15,000 --> 00:00:19,400
+Tiu persono ankaŭ havas Fejsbukan aŭ G+ paĝon.
+
+8
+00:00:19,400 --> 00:00:21,070
+Antaŭe mi demandas
+
+9
+00:00:21,070 --> 00:00:22,780
+kiom da amikojn tiu persono havas,
+
+10
+00:00:22,780 --> 00:00:28,200
+ni konsideru ke ĝi eble estas en aŭ A aŭ B.
+
+11
+00:00:28,200 --> 00:00:32,450
+Memoru ke grupo A havas 80 amikojn
+
+12
+00:00:32,450 --> 00:00:34,000
+kaj grupo B havas 20 amikojn.
+
+13
+00:00:34,000 --> 00:00:38,000
+Mi demandas al vi: kiel eble estas,
+
+14
+00:00:38,000 --> 00:00:41,000
+ke vi elektis amikon en A?
+
+15
+00:00:41,000 --> 00:00:43,000
+Ĉi tiu devus esti nombro inter 0 kaj 1.
+
+16
+00:00:43,000 --> 00:00:45,000
+Mi ankaŭ demandas la malon.
+
+17
+00:00:45,000 --> 00:00:48,000
+Kiel eble estas ke vi elektis amikon en B?
+
+18
+00:00:48,000 --> 00:00:50,000
+Bonvolu tajpi la du nombrojn,
+
+19
+00:00:50,000 --> 00:00:51,840
+kaj ĉi tiuj nombroj devas totali 1
+
+20
+00:00:51,840 --> 00:00:54,500
+Submentu kaj tiam klaku venonton.
+
+21
+00:00:54,500 --> 00:00:55,790
+Mi devus averti vin, ke ĉi tiu
+
+22
+00:00:55,790 --> 00:00:57,510
+demando estas malfacilega.
+
+23
+00:00:57,510 --> 00:01:00,000
+Se vi ne pravas, ne zorgu.
+
+24
+00:01:00,000 --> 00:01:01,570
+Ĉi tio estas kion vi scios,
+
+25
+00:01:01,570 --> 00:01:02,893
+kiam vi finis la klason.
+
+26
+00:01:02,893 --> 00:01:06,363
+Mi nur volis inciteti vin ete komence.
+

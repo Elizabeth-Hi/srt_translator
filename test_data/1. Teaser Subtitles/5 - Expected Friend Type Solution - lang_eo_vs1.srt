@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:01,690
+Jen la interesa trovaĵo.
+
+2
+00:00:01,690 --> 00:00:04,000
+Ĉar grupo A estas tiel pli populara,
+
+3
+00:00:04,000 --> 00:00:08,000
+via ŝanco ke vi ligas al ano de A estas 0.8.
+
+4
+00:00:08,000 --> 00:00:10,000
+Por vidi, ni prenu la ekstreman opinion.
+
+5
+00:00:10,000 --> 00:00:12,000
+Supozu ke grupo B havus 0 amikojn.
+
+6
+00:00:12,000 --> 00:00:13,930
+Tiam, vi neniam ligus al ano de B.
+
+7
+00:00:13,930 --> 00:00:17,000
+Vi ligas al A kaj B per proporcio de 80 kaj 20.
+
+8
+00:00:17,000 --> 00:00:18,980
+Grupo B estus 0.2.
+
+9
+00:00:18,980 --> 00:00:20,770
+Tio signifas, ke la plejparto
+
+10
+00:00:20,770 --> 00:00:23,109
+de viajn amikojn kiun vi ligas estas anoj de A.
+
+11
+00:00:23,109 --> 00:00:25,449
+Ili estas la homoj kiuj normale estas popularaj.
+

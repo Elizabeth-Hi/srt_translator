@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:03,000
+Vamos supor que existem dois tipos de pessoas, para simplificar - tipo A e tipo B
+
+2
+00:00:03,000 --> 00:00:05,000
+Os tipo A são os populares
+
+3
+00:00:05,000 --> 00:00:07,000
+Eles tem 80 amigos.
+
+4
+00:00:07,000 --> 00:00:10,000
+E os tipo B são menos populares. Eles têm apenas 20 amigos.
+
+5
+00:00:10,000 --> 00:00:14,000
+Agora, tu podes dizer que eu não sei qual é o teu tipo.
+
+6
+00:00:14,000 --> 00:00:19,000
+Eu vou calcular o que chamamos de valor esperado ou médio de amigos.
+
+7
+00:00:19,000 --> 00:00:23,000
+Para fazer isso, eu vou assumir que metade das pessoas são do tipo A
+
+8
+00:00:23,000 --> 00:00:26,000
+e a metade são do tipo B.
+
+9
+00:00:26,000 --> 00:00:28,000
+Aqui está o teu primeiro teste do curso.
+
+10
+00:00:28,000 --> 00:00:33,000
+Insere na caixa aquilo que achas que é o valor esperado ou o número médio de amigos
+
+11
+00:00:33,000 --> 00:00:39,000
+se tiveres 50% de probabilidade de seres do tipo A e 50% de ser do tipo B.
+
+12
+00:00:39,000 --> 00:00:41,000
+Escreve aqui quando terminar.
+
+13
+00:00:41,000 --> 00:00:43,000
+Há um botão para enviar a resposta algures aí em baixo.
+
+14
+00:00:43,000 --> 00:00:45,000
+Podes ver se a tua resposta está correta.
+
+15
+00:00:45,000 --> 00:00:47,000
+Quer acabes isto quer não
+
+16
+00:00:47,000 --> 00:00:49,000
+a qualquer altura clica no botão Próximo
+
+17
+00:00:49,000 --> 00:00:53,000
+e verás a minha resposta.

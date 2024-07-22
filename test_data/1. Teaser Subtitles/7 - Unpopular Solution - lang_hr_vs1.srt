@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:02,000
+Evo mog iznenađujućeg odgovora.
+
+2
+00:00:02,000 --> 00:00:05,000
+68 prijatelja.
+
+3
+00:00:05,000 --> 00:00:07,000
+Tko bi pomislio?
+
+4
+00:00:07,000 --> 00:00:12,000
+Do toga se dođe s vjerojatnosti 0.8 da ćete izabrati tip A koji ima 80 prijatelja
+
+5
+00:00:12,000 --> 00:00:16,000
+i s vjerojatnosti 0.2 da ćete izabrati odobu koja ima 20 prijatelja.
+
+6
+00:00:16,000 --> 00:00:21,000
+Ako to izračunate, dobijete 64 + 4, što čini 68.
+
+7
+00:00:21,000 --> 00:00:27,000
+Prema očekivanjima, vaš bi prijatelj imao 68 prijatelja, a vi samo 50.
+
+8
+00:00:27,000 --> 09:59:59,000
+Tako da mi je žao, prema očekivanjima mislim da ste nepopularni.
+

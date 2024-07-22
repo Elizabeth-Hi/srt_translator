@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:02,000
+Mitt svar är 50 vänner.
+
+2
+00:00:02,000 --> 00:00:05,000
+Hur kom jag dit? Jag vet inte 
+vilken typ du är.
+
+3
+00:00:05,000 --> 00:00:10,000
+Med 50 %, eller 1/2, chans är du typ A,
+och i så fall har du 80 vänner,
+
+4
+00:00:10,000 --> 00:00:14,000
+och med 50 % chans är du typ B
+och har 20 vänner.
+
+5
+00:00:14,000 --> 00:00:17,000
+Det ger mig denna ekvation för
+förväntat antal vänner.
+
+6
+00:00:17,000 --> 00:00:22,000
+Förenklar vi får vi att du har 
+40 + 10 = 50 vänner.
+
+7
+00:00:22,003 --> 00:00:26,003
+Så långt bra, men varför är du impopulär?
+

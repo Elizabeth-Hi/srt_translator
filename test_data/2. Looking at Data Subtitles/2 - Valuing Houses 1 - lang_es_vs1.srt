@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:06,000
+Uno de los problemas comunes de las personas que estudian en estadística, tiene que ver con decisiones de compra
+
+2
+00:00:06,000 --> 00:00:09,000
+Supón que quieres comprar una casa
+
+3
+00:00:09,000 --> 00:00:16,000
+Hay casas pequeñas y casas grandes, pero tú quieres esta casa especial
+
+4
+00:00:16,000 --> 00:00:18,000
+construida por un diseñador famoso
+
+5
+00:00:18,000 --> 00:00:20,000
+Esta casa tiene un cierto precio
+
+6
+00:00:20,000 --> 00:00:24,000
+En US dólares es de $92,000.00
+
+7
+00:00:24,000 --> 00:00:27,000
+La pregunta que te tienes que hacer es - ¿está bien?
+
+8
+00:00:27,000 --> 00:00:32,000
+¿Es mucho - es decir debes pagar menos - o es poco?
+
+9
+00:00:32,000 --> 00:00:34,000
+Vamos a determinar eso
+
+10
+00:00:34,000 --> 00:00:38,000
+En estadística, una forma de determinarlo es viendo los datos
+
+11
+00:00:38,000 --> 00:00:43,000
+Vamos a asumir que hay una base de datos con ventas de casas pasadas
+
+12
+00:00:43,000 --> 00:00:45,000
+de casas que están en el mismo vecindario
+
+13
+00:00:45,000 --> 00:00:49,000
+Sólo por simplicidad, vamos a asumir que conocemos dos cosas...
+
+14
+00:00:49,000 --> 00:00:53,000
+el tamaño de la casa y el costo al cual se vendió
+
+15
+00:00:53,000 --> 00:00:59,000
+Hay una casa de 1400 pies cuadrados que se vendió a $112,000
+
+16
+00:00:59,000 --> 00:01:06,000
+una más grande de 2400 pies cuadrados vendida por $192,000
+
+17
+00:01:06,000 --> 00:01:10,000
+y así para otras cosas
+
+18
+00:01:10,000 --> 00:01:12,000
+Ahora es un problema de estadística
+
+19
+00:01:12,000 --> 00:01:17,000
+Tenemos datos pasados y este es tu primer quiz
+
+20
+00:01:17,000 --> 00:01:23,000
+Considerando que quieres comprar una de tamaño de 1300 pies cuadrados
+
+21
+00:01:23,000 --> 99:59:59,000
+¿Cuánto dinero esperarías pagar por ella?
+

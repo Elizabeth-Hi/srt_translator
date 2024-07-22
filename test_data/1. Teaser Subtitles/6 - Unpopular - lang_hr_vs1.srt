@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,000
+Sad se vratimo i postavimo pravo pitanje.
+
+2
+00:00:02,000 --> 00:00:06,000
+Prema očekivanjima, koliko prijatelja ima taj vaš prijatelj?
+
+3
+00:00:06,000 --> 00:00:08,000
+Molim vas, napišite svoj broj ovdje,
+
+4
+00:00:08,000 --> 00:00:10,000
+i opet napominjem, to nije lako pitanje.
+
+5
+00:00:10,000 --> 00:00:13,000
+Nemojte se uznemiravati ako ne znate odgovor.
+
+6
+00:00:13,000 --> 09:59:59,000
+Ovakvim ćemo se stvarima temeljito baviti.
+

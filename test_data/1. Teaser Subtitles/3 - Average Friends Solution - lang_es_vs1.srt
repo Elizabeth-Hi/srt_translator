@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:02,000
+Y mi respuesta es 50 amigos
+
+2
+00:00:02,000 --> 00:00:05,000
+La forma de llegar ahí es que no sé que tipo eres tú
+
+3
+00:00:05,000 --> 00:00:10,000
+con un 50% de probabilidad o 1/2 de que seas tipo A, que en este caso son 80 amigos
+
+4
+00:00:10,000 --> 00:00:14,000
+y un 50% de probabilidad de que seas tipo B y tener 20 amigos.
+
+5
+00:00:14,000 --> 00:00:17,000
+Esto me da esta ecuación, que es el número esperado de amigos.
+
+6
+00:00:17,000 --> 00:00:22,000
+Haciendo esto me da que tienes 40 + 10 = 50 amigos
+
+7
+00:00:22,000 --> 99:59:59,000
+Hasta ahorita todo va bien, pero ¿por qué eres tan poco popular?
+

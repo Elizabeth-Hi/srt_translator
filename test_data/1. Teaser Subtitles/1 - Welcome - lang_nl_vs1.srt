@@ -1,0 +1,44 @@
+1
+00:00:00,000 --> 00:00:05,000
+Welkom in Statistiek 101, gegeven door mij, Sebastian Thrun en door Adam Sherwin
+
+2
+00:00:05,000 --> 00:00:08,000
+onze assistent die veel werk verricht in de achtergrond.
+
+3
+00:00:08,000 --> 00:00:12,000
+Ik wil beginnen met een teaser, een uitdagende teaser.
+
+4
+00:00:12,000 --> 00:00:14,000
+Ik ga je provoceren.
+
+5
+00:00:14,000 --> 00:00:16,000
+Dus, Dit ben jij.
+
+6
+00:00:16,000 --> 00:00:18,000
+Ik geloof dat je ongelukkig hoort te zijn,
+
+7
+00:00:18,000 --> 00:00:20,000
+niet omdat deze les zo slecht is,
+
+8
+00:00:20,000 --> 00:00:24,000
+maar omdat jij en ik zodadelijk zullen bewijzen dat je niet populair bent.
+
+9
+00:00:24,000 --> 00:00:26,000
+De reden waarom ik je dit toon
+
+10
+00:00:26,000 --> 00:00:29,000
+is om je te laten zien hoe diep statistiek is
+
+11
+00:00:29,000 --> 00:00:33,000
+en hoe we onszelf gemakkelijk voor de gek kunnen houden. Dus laten we er maar induiken.
+

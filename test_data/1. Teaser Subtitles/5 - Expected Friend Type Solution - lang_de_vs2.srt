@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hier ist die interessante Erkenntnis.
+
+2
+00:00:02,000 --> 00:00:04,000
+Weil "Typ A"s so viel beliebter sind,
+
+3
+00:00:04,000 --> 00:00:08,000
+ist die Wahrscheinlichkeit mit einem "Typ A" befreundet zu sein 0.8.
+
+4
+00:00:08,000 --> 00:00:10,000
+Um das zu verstehen, lass uns den Extremfall betrachten.
+
+5
+00:00:10,000 --> 00:00:12,000
+Nimm an "Typ B"s hätten 0 Freunde.
+
+6
+00:00:12,000 --> 00:00:14,000
+Dann wärest du nie mit einem "Typ B" befreundet.
+
+7
+00:00:14,000 --> 00:00:17,000
+Du bist mit "Typ A" und "Typ B" im Verhältnis 80 zu 20 befreundet.
+
+8
+00:00:17,000 --> 00:00:20,000
+"Typ B" wäre also 0.2.
+
+9
+00:00:20,000 --> 00:00:23,000
+Das bedeutet die meisten deiner Freunde sind vom "Typ A".
+
+10
+00:00:23,000 --> 00:00:25,450
+Das ist die Art von Leuten die sich als beliebt herausstellt.

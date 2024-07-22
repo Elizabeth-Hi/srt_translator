@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:09,000
+La risposta è $80 per piede quadrato, e questo si ottiene dividendo $112.000 per 1400.
+
+2
+00:00:09,000 --> 00:00:16,000
+Si scopre che questo insieme di dati ha questa straordinaria proprietà: il costo per metro quadrato è costante.
+
+3
+00:00:16,000 --> 00:00:19,000
+Questo ci permette di interpolare nel modo che abbiamo appena fatto.
+
+4
+00:00:19,000 --> 00:00:23,000
+In statistica spesso non è questo il caso, ma voglio congratularmi con te.
+
+5
+00:00:23,000 --> 00:00:27,000
+Hai completato la tua prima unità di statistica.
+
+6
+00:00:27,000 --> 00:00:30,000
+Complimenti. Hai completato l'unità 1.
+
+7
+00:00:30,000 --> 00:00:37,000
+Ma andando avanti, analizzeremo dati dove il costo potrebbe non essere solo
+
+8
+00:00:37,000 --> 00:00:41,000
+un fattore costante rispetto alle dimensioni di una casa.
+
+9
+00:00:41,000 --> 00:00:44,000
+Ti aspetto nella prossima unità.
+
